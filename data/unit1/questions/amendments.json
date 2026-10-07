@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "id": 47,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Thirteenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "The Thirteenth Amendment (1865) changed the original Constitution most directly by",
+      "opts": [
+        "abolishing slavery, which ended the counting of enslaved persons under the three-fifths formula",
+        "granting citizenship to formerly enslaved people",
+        "barring states from denying the vote on account of race",
+        "providing for the direct election of United States senators"
+      ],
+      "ans": 0,
+      "why": [
+        "The amendment abolished slavery and involuntary servitude except as punishment for a crime. Article I, Section 2 had counted three-fifths of “all other persons” when apportioning seats in the House. Once slavery was abolished, there was no longer any such group to count.",
+        "That was the Fourteenth Amendment.",
+        "That was the Fifteenth Amendment.",
+        "That was the Seventeenth Amendment."
+      ],
+      "note": "The Fourteenth Amendment later rewrote the apportionment language itself, directing that the whole number of persons in each state be counted."
+    },
+    {
+      "id": 48,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Fourteenth Amendment · citizenship",
+      "stim": [],
+      "cite": "",
+      "stem": "The Fourteenth Amendment (1868) established that",
+      "opts": [
+        "all persons born or naturalized in the United States are citizens of the United States and of the state where they live",
+        "slavery is abolished throughout the United States",
+        "senators are elected directly by the voters of each state",
+        "Congress may tax incomes without apportioning the tax among the states"
+      ],
+      "ans": 0,
+      "why": [
+        "The original Constitution referred to citizens in several places — setting qualifications for office, for example — but never defined who counted as one. The Fourteenth Amendment supplied that definition and extended citizenship to formerly enslaved people.",
+        "That was the Thirteenth Amendment.",
+        "That was the Seventeenth Amendment.",
+        "That was the Sixteenth Amendment."
+      ],
+      "note": "The Fourteenth Amendment also contains the due process and equal protection clauses, which you will study at length in the civil liberties and civil rights units."
+    },
+    {
+      "id": 49,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Fifteenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "Before the Fifteenth Amendment (1870), the Constitution left the question of who was qualified to vote largely to",
+      "opts": [
+        "Congress",
+        "the states",
+        "the federal courts",
+        "the Electoral College"
+      ],
+      "ans": 1,
+      "why": [
+        "Congress gained authority over voting rules only gradually, largely through later amendments and statutes.",
+        "Article I, Section 2 tied eligibility to vote for the House to whoever each state already allowed to vote for its own larger legislative chamber. That left voter qualifications in state hands. The Fifteenth Amendment imposed the first constitutional limit on that authority, barring denial of the vote on account of race, color, or previous condition of servitude.",
+        "Courts interpret voting rules but did not set qualifications.",
+        "The Electoral College selects the president. It has no role in determining who may vote."
+      ],
+      "note": ""
+    },
+    {
+      "id": 50,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Sixteenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "The Sixteenth Amendment (1913) altered the original Constitution by",
+      "opts": [
+        "permitting Congress to tax incomes without apportioning the tax among the states by population",
+        "granting Congress the power to regulate commerce among the states",
+        "establishing the rates at which income would be taxed",
+        "transferring all taxing authority from the states to Congress"
+      ],
+      "ans": 0,
+      "why": [
+        "The original text required direct taxes to be apportioned among the states according to population, which made a national income tax impractical. The Sixteenth Amendment removed that requirement for taxes on income.",
+        "The commerce power appears in the original Article I, Section 8. No amendment was needed.",
+        "Tax rates are set by ordinary legislation, not by the Constitution.",
+        "States kept their own taxing powers. The amendment concerned a federal tax, not state authority."
+      ],
+      "note": ""
+    },
+    {
+      "id": 51,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Seventeenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "Under the original Constitution, United States senators were chosen by",
+      "opts": [
+        "the voters of each state",
+        "each state’s legislature",
+        "the House of Representatives",
+        "the Electoral College"
+      ],
+      "ans": 1,
+      "why": [
+        "This became true only after the Seventeenth Amendment.",
+        "Article I, Section 3 gave the choice to state legislatures. The Seventeenth Amendment (1913) replaced that with direct election by the voters of each state.",
+        "The House has no role in selecting senators.",
+        "The Electoral College selects the president and vice president only."
+      ],
+      "note": "Connect this to the Great Compromise. The Senate was designed to represent states as states, which is why state legislatures originally did the choosing. The Seventeenth Amendment changed who senators ultimately answer to."
+    },
+    {
+      "id": 52,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Seventeenth Amendment · effect",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best describes an effect of the Seventeenth Amendment (1913)?",
+      "opts": [
+        "Senators became directly accountable to the voters of their state rather than to the state legislature",
+        "Seats in the Senate were reapportioned according to state population",
+        "State legislatures gained the power to recall and remove sitting senators",
+        "Senate terms were shortened from six years to four"
+      ],
+      "ans": 0,
+      "why": [
+        "Before the amendment, senators owed their seats to the state legislature that chose them. Afterward they owed their seats to the voters. The Senate still represents states equally, but who senators answer to changed.",
+        "Equal representation for every state was left untouched. That arrangement came from the Great Compromise and remains in place.",
+        "The amendment removed the legislature’s role in selection rather than expanding it. It does allow a state to authorize its governor to fill a vacancy temporarily.",
+        "Terms remained six years."
+      ],
+      "note": "Some critics argue the amendment weakened the states’ formal voice in the national government. That debate belongs to the federalism unit — for now, know what changed and what did not."
+    },
+    {
+      "id": 53,
+      "g": "amendments",
+      "topic": "1.5",
+      "concept": "Twenty-Second Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "The original Constitution placed no limit on the number of terms a president could serve. That changed with",
+      "opts": [
+        "the Twelfth Amendment",
+        "the Twentieth Amendment",
+        "the Twenty-Second Amendment",
+        "the Twenty-Fifth Amendment"
+      ],
+      "ans": 2,
+      "why": [
+        "The Twelfth Amendment changed how electors cast their ballots for president and vice president.",
+        "The Twentieth Amendment moved the dates on which presidential and congressional terms begin.",
+        "Ratified in 1951, the Twenty-Second Amendment limits a president to two elected terms. Before it, the two-term tradition rested on custom rather than law.",
+        "The Twenty-Fifth Amendment addresses presidential succession and disability."
+      ],
+      "note": ""
+    }
+  ]
+}

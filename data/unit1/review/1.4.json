@@ -1,0 +1,38 @@
+{
+  "review": [
+    {
+      "num": "1.4",
+      "name": "Challenges of the Articles of Confederation",
+      "lo": "LO 1.4.A — Explain the relationship between key provisions of the Articles of Confederation and the debate over granting the federal government greater power formerly reserved to the states.",
+      "core": "The Articles created a league of states with a weak national Congress. The failures were specific, and the Constitution was built as a direct answer to them.",
+      "blocks": [
+        [
+          "Five weaknesses to know by name",
+          "No centralized military power — exposed by Shays’ Rebellion · No executive branch to enforce laws, including taxation · No national court system · No power to regulate interstate commerce · No exclusive power to coin money"
+        ],
+        [
+          "Shays’ Rebellion",
+          "In 1786 and 1787 indebted Massachusetts farmers shut down county courts to block foreclosures. The national government could not raise troops in response. The episode convinced many Americans that the Articles could not be repaired."
+        ],
+        [
+          "The amendment problem",
+          "Changing the Articles required the agreement of all thirteen states, so a single state could block any reform."
+        ]
+      ],
+      "traps": [
+        [
+          "Vagueness",
+          "“The national government was too weak” earns nothing on a free-response question. Name the specific missing power and connect it to the scenario."
+        ],
+        [
+          "Importing Article V numbers",
+          "Amending the Articles took unanimity. Two-thirds and three-fourths belong to the Constitution’s amendment process, not to the Articles."
+        ],
+        [
+          "Missing the word exclusive",
+          "Congress could coin money under the Articles. The problem was that the states could too."
+        ]
+      ]
+    }
+  ]
+}

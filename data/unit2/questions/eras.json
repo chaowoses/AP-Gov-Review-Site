@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "id": 242,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "Dual vs. cooperative federalism",
+      "stim": [],
+      "cite": "",
+      "stem": "Which pairing correctly describes dual federalism and cooperative federalism?",
+      "opts": [
+        "Dual: responsibilities blend together, like a marble cake. Cooperative: the two levels work in separate spheres, like a layer cake.",
+        "Dual: the two levels work in separate spheres, like the layers of a cake. Cooperative: responsibilities and funding blend together, like a marble cake.",
+        "Dual: only the states govern domestic policy. Cooperative: only the national government does.",
+        "Dual and cooperative federalism are two names for revenue sharing."
+      ],
+      "ans": 1,
+      "why": [
+        "Reversed. Layer cake is dual; marble cake is cooperative.",
+        "Right. Under dual federalism each level stayed in its own lane. Under cooperative federalism the levels share policy areas, usually with national money and state administration.",
+        "Neither model takes a level out entirely. They describe how the two levels relate.",
+        "Revenue sharing is a type of funding. Dual and cooperative federalism describe whole eras in how the levels relate."
+      ],
+      "note": ""
+    },
+    {
+      "id": 243,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "The New Deal",
+      "stim": [],
+      "cite": "",
+      "stem": "How did the New Deal of the 1930s change American federalism?",
+      "opts": [
+        "The national government took a much larger role in the economy, often funding programs that states helped run.",
+        "It returned most responsibility for economic and social policy to the states during the Depression.",
+        "It ended federal grants and replaced them with revenue sharing that carried no restrictions.",
+        "It ended the states’ role in running programs, placing every new program under national agencies."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Responding to the Great Depression, the national government expanded dramatically and began working through the states with federal money — the shift from dual to cooperative federalism.",
+        "That describes devolution, decades later. The New Deal moved power toward the national government.",
+        "Grants grew during and after the New Deal. Revenue sharing came decades later, in 1972.",
+        "States became more involved, not less, as partners administering federally funded programs."
+      ],
+      "note": ""
+    },
+    {
+      "id": 244,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "Sixteenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "Which development most directly gave the national government the money to greatly expand its grants to the states in the twentieth century?",
+      "opts": [
+        "The Seventeenth Amendment, which provided for the direct election of senators",
+        "The Tenth Amendment, which reserved powers to the states",
+        "The Full Faith and Credit Clause, which required states to honor each other’s records",
+        "The Sixteenth Amendment, which allowed a federal income tax"
+      ],
+      "ans": 3,
+      "why": [
+        "The Seventeenth Amendment changed how senators are chosen. It had nothing to do with revenue.",
+        "The Tenth Amendment protects state authority. It doesn’t raise money for anyone.",
+        "This clause is about relations among the states, not federal revenue.",
+        "Right. The income tax gave the national government a large, reliable source of revenue. That money funds the grants — and the conditions attached to them — that shape modern federalism."
+      ],
+      "note": ""
+    },
+    {
+      "id": 245,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "Seventeenth Amendment",
+      "stim": [],
+      "cite": "",
+      "stem": "How did the Seventeenth Amendment (1913) affect the power of state governments?",
+      "opts": [
+        "It increased state power by giving state legislatures the authority to choose their senators.",
+        "It gave each state equal representation in the Senate regardless of the state’s population.",
+        "It reduced state legislatures’ influence in Congress by having voters, not legislatures, elect senators.",
+        "It allowed Congress to collect taxes on incomes, increasing national power over the states."
+      ],
+      "ans": 2,
+      "why": [
+        "That was the original system. The Seventeenth Amendment took that power away.",
+        "Equal representation in the Senate came from the Great Compromise in the original Constitution.",
+        "Right. Under the original Constitution, senators answered to the state legislatures that chose them. After 1913, they answered to voters, and state governments lost their direct voice in Congress.",
+        "That is the Sixteenth Amendment, also ratified in 1913."
+      ],
+      "note": ""
+    },
+    {
+      "id": 246,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "Devolution",
+      "stim": [],
+      "cite": "",
+      "stem": "Which set of developments best illustrates the “devolution revolution”?",
+      "opts": [
+        "New Deal programs that expanded the national government’s role in the economy and social welfare",
+        "Block grants replacing categorical grants, limits on unfunded mandates, and a narrower commerce power",
+        "Federal laws in the 1960s banning racial discrimination in public accommodations and voting",
+        "Ratification of the Fourteenth Amendment and the beginning of selective incorporation"
+      ],
+      "ans": 1,
+      "why": [
+        "The New Deal moved power toward the national government. Devolution moved the other way.",
+        "Right. Each moves power or flexibility from the national government toward the states — block grants, the Unfunded Mandates Reform Act, and Lopez, for example.",
+        "Civil rights laws of the 1960s expanded national authority over the states.",
+        "The Fourteenth Amendment placed new limits on states. It is a step toward national power."
+      ],
+      "note": ""
+    },
+    {
+      "id": 247,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "Welfare reform as devolution",
+      "stim": [],
+      "cite": "",
+      "stem": "In 1996, Congress replaced an open-ended federal welfare program with a block grant to states that gave them more control over eligibility rules and work requirements. This change is best described as",
+      "opts": [
+        "devolution, because it shifted authority over the program from the national government to the states",
+        "cooperative federalism, because it expanded national control over state welfare programs",
+        "preemption, because the new federal law displaced the welfare laws that each state had written for itself",
+        "an unfunded mandate, because states had to keep running welfare programs without any federal money"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. The Welfare Reform Act is a standard example of devolution in the 1990s: flexible block grant money in place of detailed national rules.",
+        "Both levels still fund and run welfare, but the change gave states more control, not less.",
+        "The change gave states more room to write their own rules. That is the opposite of preemption.",
+        "The block grant was federal money. States gained flexibility, not a requirement without funding."
+      ],
+      "note": ""
+    },
+    {
+      "id": 248,
+      "g": "eras",
+      "topic": "1.8",
+      "concept": "NCLB to ESSA",
+      "stim": [],
+      "cite": "",
+      "stem": "The No Child Left Behind Act (2001) tied federal education funds to national testing and accountability requirements. Its replacement, the Every Student Succeeds Act (2015), returned more control over accountability to the states. The 2015 change is best described as",
+      "opts": [
+        "preemption, because federal law displaced state education laws",
+        "a crossover sanction, because highway funds were withheld from states whose schools missed their testing targets",
+        "dual federalism, because the national government stopped funding education",
+        "devolution, because authority over school accountability shifted back toward the states"
+      ],
+      "ans": 3,
+      "why": [
+        "ESSA did the reverse — it gave states more room to set their own approach.",
+        "No highway money was involved. Education funding came with conditions in education itself.",
+        "Federal education funding continued. ESSA changed the conditions, not the money.",
+        "Right. Education is traditionally a reserved power that Washington shapes through grants and their conditions. ESSA loosened those conditions and gave states more say."
+      ],
+      "note": ""
+    }
+  ]
+}

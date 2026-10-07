@@ -1,0 +1,43 @@
+{
+  "review": [
+    {
+      "g": "fiscal",
+      "num": "1.7",
+      "name": "Grants, Mandates, and Conditions of Aid",
+      "lo": "LO 1.7.A — Explain how the constitutional allocation of power between the national and state governments affects society.",
+      "core": "Most of the time, the national government shapes state policy with money rather than orders. Grants come with strings that states can refuse by refusing the money; mandates are requirements they can’t refuse. Which tool Washington uses decides who really controls the policy.",
+      "blocks": [
+        [
+          "Three kinds of grants",
+          "Categorical grants — restricted to specific categories of spending; preferred by the national government; the most commonly used. Block grants — a broad policy area with minimal restrictions; preferred by the states. Revenue sharing — almost no restrictions; the least used, running only from 1972 to 1986. The more restrictions, the more control stays with the national government."
+        ],
+        [
+          "Mandates",
+          "A mandate is a requirement the national government places on the states. An unfunded mandate comes with little or no money to pay for it — the Americans with Disabilities Act and clean air and water standards are common examples. The Unfunded Mandates Reform Act of 1995 made such mandates harder to pass by requiring cost estimates and allowing a challenge in Congress. It did not ban them."
+        ],
+        [
+          "Conditions of aid",
+          "Cross-cutting requirements apply to nearly all federal grants (nondiscrimination rules). Crossover sanctions use money in one program to change policy in another (highway funds withheld from states that kept a drinking age below 21). Preemption is different — federal law displaces state law outright, under the Supremacy Clause, and no money is involved."
+        ],
+        [
+          "The limit on strings",
+          "The Court has allowed Congress to attach conditions to grants because states can say no. When the financial pressure becomes so great that a state has no real choice, the Court has called it unduly coercive. And Congress can’t order state officials to carry out a federal program — it can only regulate people directly or pay states to help."
+        ]
+      ],
+      "traps": [
+        [
+          "Grant or mandate?",
+          "Ask whether the state can say no. If it can, by giving up the money, it is a grant with conditions. If it can’t, it is a mandate."
+        ],
+        [
+          "Block grant versus revenue sharing",
+          "Both are flexible. Block grants still limit spending to a broad policy area; revenue sharing had almost no limits at all."
+        ],
+        [
+          "Preference is not usage",
+          "States prefer block grants, but categorical grants are the most commonly used. Questions often pair the two to see if you mix them up."
+        ]
+      ]
+    }
+  ]
+}

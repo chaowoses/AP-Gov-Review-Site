@@ -1,0 +1,280 @@
+{
+  "questions": [
+    {
+      "id": 214,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Categorical grants",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress provides money to states that may be spent only on school lunch programs meeting federal nutrition standards. This is",
+      "opts": [
+        "a block grant",
+        "a categorical grant",
+        "revenue sharing",
+        "an unfunded mandate"
+      ],
+      "ans": 1,
+      "why": [
+        "A block grant covers a broad policy area and leaves states room to decide how to spend it. This money is tied to one narrow purpose.",
+        "Right. The money is restricted to one specific category of spending and comes with detailed federal requirements. Categorical grants are the most commonly used form of federal funding.",
+        "Revenue sharing gave states money with almost no restrictions. This grant is full of restrictions.",
+        "A mandate is a requirement, and an unfunded one comes without money. Here money is being offered, with conditions attached."
+      ],
+      "note": ""
+    },
+    {
+      "id": 215,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Block grants",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress combines several narrow programs into one grant that states may spend on community development as they choose, within broad federal guidelines. This is",
+      "opts": [
+        "a categorical grant",
+        "revenue sharing",
+        "a crossover sanction",
+        "a block grant"
+      ],
+      "ans": 3,
+      "why": [
+        "Categorical grants are restricted to specific categories of spending. Here, narrow categories are being combined into one flexible pot.",
+        "Close, but revenue sharing had almost no restrictions at all — not even a broad policy area. This money is still limited to community development.",
+        "A crossover sanction threatens to withhold money in one program to influence policy in another. Nothing is being withheld here.",
+        "Right. A block grant covers a broad area with minimal restrictions, so states decide how to spend it. That flexibility is why states prefer block grants."
+      ],
+      "note": ""
+    },
+    {
+      "id": 216,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Grant preferences",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement correctly describes which kind of grant each level of government generally prefers?",
+      "opts": [
+        "States prefer categorical grants because they allow flexibility; the national government prefers block grants because they allow control.",
+        "Both levels prefer revenue sharing because it carries no restrictions.",
+        "States prefer block grants because they allow flexibility; the national government prefers categorical grants because they allow control.",
+        "States prefer mandates because they come with guaranteed funding."
+      ],
+      "ans": 2,
+      "why": [
+        "Reversed. Categorical grants are the restrictive ones.",
+        "States did like revenue sharing, but the national government gives up all control with it — one reason it is the least used form of funding.",
+        "Right. Whoever controls how the money is spent prefers that kind of grant. Block grants give states the choices; categorical grants keep them with Congress.",
+        "Mandates are requirements, not grants, and many come with little or no funding. States generally object to them."
+      ],
+      "note": ""
+    },
+    {
+      "id": 217,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "How often each grant is used",
+      "stim": [],
+      "cite": "",
+      "stem": "Which of the following correctly identifies the most commonly used and least used forms of federal funding to the states?",
+      "opts": [
+        "Most commonly used: categorical grants. Least used: revenue sharing.",
+        "Most commonly used: block grants. Least used: categorical grants.",
+        "Most commonly used: revenue sharing. Least used: block grants.",
+        "Most commonly used: mandates. Least used: categorical grants."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Categorical grants make up most federal aid to states. Revenue sharing, used from 1972 to 1986, has not returned as a major program.",
+        "States prefer block grants, but preference doesn’t decide what gets used. Categorical grants are the most common.",
+        "Revenue sharing is the least used, not the most. It gave Congress no control over spending.",
+        "Mandates are requirements, not funding. And categorical grants are the most common form of funding, not the least."
+      ],
+      "note": ""
+    },
+    {
+      "id": 218,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Grants vs. mandates",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best describes the difference between a federal grant and a federal mandate?",
+      "opts": [
+        "A state can turn down a grant and its conditions; a mandate must be followed whether or not money comes with it.",
+        "A grant is a requirement imposed on the states; a mandate is money offered to them for a specific purpose.",
+        "A mandate always includes enough federal money to cover its full cost; a grant may not.",
+        "Grants go only to city and county governments, while mandates apply only to state governments."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Grants work through incentives — take the money, accept the strings. Mandates work through requirements, and a state can’t opt out by refusing money.",
+        "Reversed. Grants are money; mandates are requirements.",
+        "Many mandates come with little or no funding. That is exactly what states mean when they complain about unfunded mandates.",
+        "Grants and mandates both reach states and localities. The difference is choice, not who receives them."
+      ],
+      "note": ""
+    },
+    {
+      "id": 219,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Unfunded mandates",
+      "stim": [],
+      "cite": "",
+      "stem": "A federal law requires state and local governments to make public buildings and services accessible to people with disabilities, but provides little money for the needed renovations. This is an example of",
+      "opts": [
+        "a categorical grant",
+        "an unfunded mandate",
+        "a crossover sanction",
+        "a block grant"
+      ],
+      "ans": 1,
+      "why": [
+        "A categorical grant is money for a specific purpose. Here the national government is imposing a requirement, not offering money.",
+        "Right. The requirement is binding, and the cost falls largely on state and local governments. The Americans with Disabilities Act is a common example.",
+        "A crossover sanction withholds money from one program to change policy in another. No money is being withheld here.",
+        "A block grant is flexible funding. The scenario describes a requirement with little funding at all."
+      ],
+      "note": ""
+    },
+    {
+      "id": 220,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Unfunded Mandates Reform Act",
+      "stim": [],
+      "cite": "",
+      "stem": "What did the Unfunded Mandates Reform Act of 1995 do?",
+      "opts": [
+        "It made costly unfunded mandates harder to pass by requiring cost estimates and allowing a challenge in Congress.",
+        "It banned Congress from imposing any new unfunded mandates on state, local, and tribal governments after 1995.",
+        "It required the national government to repay states for the full cost of every existing mandate.",
+        "It converted the largest categorical grant programs into block grants that states could spend however they chose."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. The law added procedural hurdles — cost estimates and a chance to object on the floor. Congress can still pass unfunded mandates; it just has to do so knowingly.",
+        "This is the most common mistake about this law. It did not ban unfunded mandates. A majority of Congress can still pass them.",
+        "The law looked mainly at future mandates and did not promise full reimbursement for anything.",
+        "Some programs were converted to block grants in the 1990s, but that was done program by program, not by this law."
+      ],
+      "note": "The Unfunded Mandates Reform Act did not ban unfunded mandates. It made them harder to pass by adding cost estimates and a chance to object."
+    },
+    {
+      "id": 221,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Crossover sanctions",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress withheld a portion of federal highway funds from any state that did not raise its minimum drinking age to 21. This is an example of",
+      "opts": [
+        "a cross-cutting requirement",
+        "preemption",
+        "an unfunded mandate",
+        "a crossover sanction"
+      ],
+      "ans": 3,
+      "why": [
+        "A cross-cutting requirement applies to nearly all federal grants. This condition applies to highway money only.",
+        "Preemption means federal law displaces state law outright. Here states kept the choice — they could keep a lower drinking age and lose some highway money.",
+        "A mandate is a requirement states must follow. States could refuse this condition, at a cost.",
+        "Right. Money in one program (highways) is used to change policy in another area (the drinking age). Every state eventually raised its drinking age to 21."
+      ],
+      "note": "A crossover sanction is still a choice. That is why it’s treated as a condition on money, not a mandate — but the Court has said the financial pressure can’t become so heavy that a state has no real choice at all."
+    },
+    {
+      "id": 222,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Cross-cutting requirements",
+      "stim": [],
+      "cite": "",
+      "stem": "Any state or local program that receives federal money, whether for highways, schools, or health care, must not discriminate on the basis of race. This requirement is best described as",
+      "opts": [
+        "a cross-cutting requirement",
+        "a crossover sanction",
+        "a block grant",
+        "a reserved power"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. It cuts across nearly all federal grants instead of applying to one program. Nondiscrimination rules are the standard example.",
+        "A crossover sanction ties money in one program to policy in a separate area. This rule applies to the money itself, in every program.",
+        "A block grant is a type of funding. This is a condition attached to funding.",
+        "Reserved powers belong to the states. This is a national condition placed on states."
+      ],
+      "note": ""
+    },
+    {
+      "id": 223,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Preemption",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress passes a law setting national standards for a product and states that it displaces state laws on the subject. A state’s stricter rule on the same product no longer applies. This is",
+      "opts": [
+        "a reserved power, grounded in the Tenth Amendment",
+        "preemption, grounded in the Supremacy Clause",
+        "a crossover sanction, grounded in the spending power",
+        "full faith and credit, grounded in Article IV"
+      ],
+      "ans": 1,
+      "why": [
+        "The Tenth Amendment protects state authority. Here a state rule is being displaced, which is the opposite.",
+        "Right. When Congress acts within its constitutional powers, federal law takes precedence, and Congress can displace state law on the same subject. The Supremacy Clause is the source.",
+        "A crossover sanction works through money. This law displaces state rules directly, with no money involved.",
+        "Full faith and credit is about states honoring each other’s acts and court judgments. It has nothing to do with federal law displacing state law."
+      ],
+      "note": ""
+    },
+    {
+      "id": 224,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Limits on conditions of aid",
+      "stim": [],
+      "cite": "",
+      "stem": "The Supreme Court has allowed Congress to attach conditions to the money it gives states. Which action has the Court said goes too far?",
+      "opts": [
+        "Requiring states to spend grant money only on the specific purposes Congress has chosen",
+        "Withholding a small share of a program’s funds from states that refuse to accept a condition",
+        "Requiring every program that receives federal funds to follow nondiscrimination rules",
+        "Threatening to cut off so much existing funding that a state has no real choice but to accept"
+      ],
+      "ans": 3,
+      "why": [
+        "That is what a categorical grant is, and it is the most common form of federal aid.",
+        "The Court has upheld this. Withholding a small percentage of highway money over the drinking age is the standard example.",
+        "Cross-cutting nondiscrimination requirements are a long-standing, accepted condition of federal aid.",
+        "Right. Conditions are allowed because states can say no. When the financial pressure is so great that saying no isn’t realistic, the Court has called the condition unduly coercive."
+      ],
+      "note": "You don’t need the names of the cases behind this. The principle: money with strings attached is allowed; pressure so heavy that a state has no real choice is unduly coercive, and that is not allowed."
+    },
+    {
+      "id": 225,
+      "g": "fiscal",
+      "topic": "1.7",
+      "concept": "Declining a grant",
+      "stim": [],
+      "cite": "",
+      "stem": "A state objects to the conditions attached to a federal categorical grant. Which option does the state have?",
+      "opts": [
+        "Decline the grant, and with it the conditions",
+        "Accept the money and ignore the conditions",
+        "Require Congress to convert the grant into a block grant",
+        "Invoke the Tenth Amendment to keep the funds without conditions"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Grants are offers. A state that refuses the money isn’t bound by the strings — which is exactly how grants differ from mandates.",
+        "Conditions are the price of the money. A state that takes the funds and ignores the conditions can lose them.",
+        "States can lobby for a block grant, but they can’t require Congress to create one.",
+        "The Tenth Amendment reserves powers to the states. It doesn’t entitle a state to federal money on its own terms."
+      ],
+      "note": ""
+    }
+  ]
+}

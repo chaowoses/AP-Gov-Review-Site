@@ -1,0 +1,39 @@
+{
+  "review": [
+    {
+      "g": "eras",
+      "num": "1.8",
+      "name": "How Federalism Has Changed",
+      "lo": "LO 1.8.A — Explain how the balance of power between national and state governments has changed over time based on interpretations of the Supreme Court of the United States.",
+      "core": "The balance between the national government and the states has swung back and forth since 1789. Constitutional amendments, national crises, and Supreme Court decisions each moved it, and every era left tools — grants, mandates, conditions — that are still in use.",
+      "blocks": [
+        [
+          "Dual federalism — the layer cake",
+          "From the founding into the 1930s, the two levels mostly worked in separate spheres. The national government handled a short list of national concerns; states handled nearly everything else."
+        ],
+        [
+          "Turning points toward national power",
+          "The Fourteenth Amendment (1868) placed national limits on what states may do to individuals, and selective incorporation, beginning in the 1920s, applied most of the Bill of Rights to the states through it. The Sixteenth Amendment (1913) allowed a federal income tax — the money behind modern grants. The Seventeenth Amendment (1913) had voters, not state legislatures, elect senators, removing state governments’ direct voice in Congress."
+        ],
+        [
+          "Cooperative federalism — the marble cake",
+          "The New Deal response to the Great Depression expanded the national government’s role in the economy and social welfare. The levels began sharing policy areas: national money, national conditions, state administration. Fiscal federalism — using grants to shape state policy — became the main tool."
+        ],
+        [
+          "Devolution",
+          "Beginning in the 1980s and accelerating in the 1990s, power and flexibility shifted back toward the states: categorical programs became block grants, the Unfunded Mandates Reform Act (1995) limited new mandates, the Welfare Reform Act (1996) changed welfare from a categorical grant into a block grant (TANF — Temporary Assistance for Needy Families), and Lopez (1995) narrowed the commerce power. In education, the Every Student Succeeds Act (2015) returned to states some of the control No Child Left Behind (2001) had taken."
+        ]
+      ],
+      "traps": [
+        [
+          "Layer versus marble",
+          "Layer cake is dual — separate spheres. Marble cake is cooperative — blended. If you picture the cake, you won’t reverse them."
+        ],
+        [
+          "Which way did it move?",
+          "For every amendment, case, or law, ask whether it moved power toward Washington or toward the states. Most questions in this topic turn on that direction."
+        ]
+      ]
+    }
+  ]
+}

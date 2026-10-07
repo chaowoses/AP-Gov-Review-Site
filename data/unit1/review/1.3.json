@@ -1,0 +1,34 @@
+{
+  "review": [
+    {
+      "num": "1.3",
+      "name": "Government Power and Individual Rights",
+      "lo": "LO 1.3.A — Explain Federalist and Anti-Federalist views on central government and democracy.",
+      "core": "Ratification was contested. Two camps argued about whether a large, powerful national government would protect liberty or destroy it, and the documents they produced are still the clearest statements of the disagreement.",
+      "blocks": [
+        [
+          "Federalists",
+          "Supported ratification and a strong central government. In Federalist No. 10, Madison argues that a large republic is better at controlling the mischiefs of faction — it contains more competing interests, delegates authority to elected representatives who refine public views, and disperses power between the states and the national government."
+        ],
+        [
+          "Madison on faction",
+          "A faction is a group of citizens — majority or minority — united by a common passion or interest adverse to the rights of others or to the interests of the community. Madison rejects removing the causes of faction, since that would require destroying liberty or forcing uniform opinion. He aims to control its effects instead."
+        ],
+        [
+          "Anti-Federalists",
+          "Opposed ratification and wanted more power reserved to the states. Brutus No. 1 argues that a republic works only where people share interests, that a large and diverse country cannot be represented well, and that the necessary and proper and supremacy clauses would let national power grow until the states were hollowed out. Anti-Federalists demanded a bill of rights."
+        ]
+      ],
+      "traps": [
+        [
+          "Reversing the two",
+          "Large republic controls faction is Madison. Small republic protects liberty is Brutus. Under pressure these swap easily — check which document you are recalling before you commit."
+        ],
+        [
+          "Assuming Anti-Federalists opposed government itself",
+          "They did not. They wanted power held closer to the people, at the state level, and they wanted individual liberties written down."
+        ]
+      ]
+    }
+  ]
+}

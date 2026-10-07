@@ -1,0 +1,42 @@
+{
+  "review": [
+    {
+      "num": "1.6",
+      "name": "Principles of American Government",
+      "lo": "LO 1.6.A — Explain the constitutional principles of separation of powers and checks and balances.  |  LO 1.6.B — Explain the effects of separation of powers and checks and balances for the U.S. political system.",
+      "core": "The framers assumed officeholders would pursue their own interests, so they built a structure in which ambition in one branch runs into ambition in another. The design produces friction on purpose.",
+      "blocks": [
+        [
+          "Separation of powers",
+          "Government is divided into three branches, each with its own function. Congress makes law, the executive carries it out, the courts interpret it. This is the structure."
+        ],
+        [
+          "Checks and balances",
+          "Each branch holds powers that restrain the others, so no branch becomes too powerful. This is what happens within the structure. Creating the judiciary is separation of powers; the judiciary striking down a statute is a check."
+        ],
+        [
+          "Federalist No. 51",
+          "Madison explains how these provisions control potential abuses by majorities. Ambition must be made to counteract ambition; the interest of the officeholder must be tied to the constitutional rights of the office. He also warns that the legislative branch tends to dominate and must be checked accordingly."
+        ],
+        [
+          "Two effects to know",
+          "Multiple access points — because authority is spread across institutions, stakeholders defeated in one arena can try another, which gives organized interests more opportunities to shape policy. Accountability for abuse of power — the House impeaches by majority vote, formally charging an official with abuse of power or misconduct; the Senate tries the case and may convict and remove by a two-thirds vote."
+        ]
+      ],
+      "traps": [
+        [
+          "Separation of powers versus checks and balances",
+          "Structure versus action. If the answer describes one branch acting on another, it is a check."
+        ],
+        [
+          "Separation of powers versus federalism",
+          "These get swapped constantly, and they are not close. Separation of powers divides authority among the three branches — legislative, executive, judicial — all at the same level of government. Federalism divides authority between levels — national and state. If the scenario involves Congress and the president, it is separation of powers. If it involves Washington and a state capital, it is federalism."
+        ],
+        [
+          "Impeachment is not removal",
+          "An official impeached by the House but acquitted by the Senate stays in office. Use the words precisely on free-response questions."
+        ]
+      ]
+    }
+  ]
+}

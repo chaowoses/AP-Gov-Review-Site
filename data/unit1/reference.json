@@ -1,0 +1,293 @@
+{
+  "reference": {
+    "title": "Quick reference",
+    "lede": "The cross-cutting material that does not belong to any one topic. This is the page to reopen the night before a test.",
+    "summary": "Articles, fractions, checks and balances, House and Senate, clauses, amendments",
+    "sections": [
+      {
+        "title": "The seven Articles",
+        "kind": "table",
+        "cols": [
+          "Article",
+          "What it covers"
+        ],
+        "rows": [
+          [
+            "Article I",
+            "The legislative branch. Structure of Congress, its enumerated powers, limits on Congress and on the states."
+          ],
+          [
+            "Article II",
+            "The executive branch. The presidency, its powers and duties, the Electoral College."
+          ],
+          [
+            "Article III",
+            "The judicial branch. The Supreme Court, the power to create lower courts, jurisdiction, treason."
+          ],
+          [
+            "Article IV",
+            "Relations among the states. Full faith and credit, privileges and immunities, extradition, admission of new states."
+          ],
+          [
+            "Article V",
+            "The amendment process."
+          ],
+          [
+            "Article VI",
+            "The supremacy clause, national debts, oaths of office, and the ban on religious tests for office."
+          ],
+          [
+            "Article VII",
+            "Ratification — the Constitution took effect once conventions in nine states approved it."
+          ]
+        ],
+        "note": "Know the Article numbers. You are not expected to memorize section numbers — a question may cite one, but you will never be asked to supply it. Section numbers appear in the tables below only so you can find provisions quickly when you go back to the text."
+      },
+      {
+        "title": "Fractions and thresholds",
+        "kind": "table",
+        "cols": [
+          "Action",
+          "Threshold"
+        ],
+        "rows": [
+          [
+            "House impeaches a federal official",
+            "Simple majority of the House"
+          ],
+          [
+            "Senate convicts and removes",
+            "Two-thirds of senators present"
+          ],
+          [
+            "Congress proposes a constitutional amendment",
+            "Two-thirds of both houses"
+          ],
+          [
+            "State legislatures call a convention to propose an amendment",
+            "Two-thirds of state legislatures"
+          ],
+          [
+            "States ratify a proposed amendment",
+            "Three-fourths of the states"
+          ],
+          [
+            "Congress overrides a presidential veto",
+            "Two-thirds of both houses"
+          ],
+          [
+            "Senate ratifies a treaty",
+            "Two-thirds of senators present"
+          ],
+          [
+            "Senate confirms a presidential nominee",
+            "Simple majority"
+          ],
+          [
+            "Senate invokes cloture to end a filibuster on legislation",
+            "Three-fifths of the Senate — 60 votes"
+          ],
+          [
+            "A chamber expels one of its own members",
+            "Two-thirds of that chamber"
+          ],
+          [
+            "Winning the presidency in the Electoral College",
+            "A majority — 270 of 538"
+          ],
+          [
+            "Amending the Articles of Confederation",
+            "All thirteen states"
+          ]
+        ]
+      },
+      {
+        "title": "Checks and balances",
+        "kind": "cards",
+        "cols": [
+          "Branch",
+          "Checks on the legislature",
+          "Checks on the executive",
+          "Checks on the judiciary"
+        ],
+        "rows": [
+          [
+            "Legislative",
+            "Bicameral — a bill must pass both chambers · Revenue bills must originate in the House · Neither chamber may adjourn more than three days without the other’s consent",
+            "Override a veto by two-thirds · Impeach and remove · Confirm or reject appointments · Ratify or reject treaties · Declare war · Control appropriations",
+            "Confirm or reject judicial nominees · Impeach and remove judges · Create lower courts and set their jurisdiction · Alter the size of the Supreme Court · Propose amendments to overturn constitutional rulings"
+          ],
+          [
+            "Executive",
+            "Veto legislation · Call Congress into special session · Deliver the State of the Union and recommend measures",
+            "—",
+            "Nominate federal judges · Grant pardons"
+          ],
+          [
+            "Judicial",
+            "Judicial review — declare an act of Congress unconstitutional",
+            "Judicial review — declare an executive action unconstitutional",
+            "—"
+          ]
+        ],
+        "note": "Read across a row to see what that branch can do to the others. Read down a column to see what restrains that branch. Judges hold their seats during good behavior and their pay cannot be reduced, which insulates the judiciary from pressure by the other two."
+      },
+      {
+        "title": "House and Senate compared",
+        "kind": "table",
+        "cols": [
+          "",
+          "House of Representatives",
+          "Senate"
+        ],
+        "rows": [
+          [
+            "Size",
+            "435",
+            "100"
+          ],
+          [
+            "Term",
+            "Two years",
+            "Six years, staggered"
+          ],
+          [
+            "Representation",
+            "By state population",
+            "Equal — two per state"
+          ],
+          [
+            "Minimum age",
+            "25",
+            "30"
+          ],
+          [
+            "Presiding officer",
+            "Speaker of the House",
+            "Vice president as president of the Senate"
+          ],
+          [
+            "Debate",
+            "Limited",
+            "Unlimited unless cloture is invoked"
+          ],
+          [
+            "Originates revenue bills",
+            "Yes",
+            "May amend but not originate"
+          ],
+          [
+            "Treaties",
+            "No role",
+            "Ratifies by two-thirds"
+          ],
+          [
+            "Appointments",
+            "No role",
+            "Confirms by majority"
+          ],
+          [
+            "Impeachment",
+            "Brings the charges",
+            "Holds the trial, convicts by two-thirds"
+          ],
+          [
+            "Originally selected by",
+            "Voters",
+            "State legislatures, until the Seventeenth Amendment"
+          ],
+          [
+            "If no Electoral College majority",
+            "Chooses the president",
+            "Chooses the vice president"
+          ]
+        ]
+      },
+      {
+        "title": "Clauses to know",
+        "kind": "table",
+        "cols": [
+          "Clause",
+          "Where",
+          "What it does"
+        ],
+        "rows": [
+          [
+            "Necessary and proper (elastic)",
+            "Article I, Section 8",
+            "Lets Congress make laws needed to carry out its listed powers. The basis of implied powers."
+          ],
+          [
+            "Commerce",
+            "Article I, Section 8",
+            "Gives Congress power over commerce with foreign nations, among the states, and with tribes. Interstate, not intrastate."
+          ],
+          [
+            "Habeas corpus, ex post facto, bills of attainder",
+            "Article I, Sections 9 and 10",
+            "Limits on what Congress and the states may do to individuals."
+          ],
+          [
+            "Take care",
+            "Article II, Section 3",
+            "Requires the president to see that the laws are faithfully executed."
+          ],
+          [
+            "Full faith and credit",
+            "Article IV, Section 1",
+            "Requires each state to honor the public acts, records, and judicial proceedings of other states."
+          ],
+          [
+            "Extradition",
+            "Article IV, Section 2",
+            "Requires a state to return a person charged with a crime who has fled from another state."
+          ],
+          [
+            "Supremacy",
+            "Article VI",
+            "Makes the Constitution, federal laws, and treaties the supreme law of the land."
+          ],
+          [
+            "Tenth Amendment",
+            "Amendment X",
+            "Reserves to the states, or to the people, powers not delegated to the national government."
+          ]
+        ]
+      },
+      {
+        "title": "Amendments that changed the original text",
+        "kind": "table",
+        "cols": [
+          "Amendment",
+          "What it did to the original text"
+        ],
+        "rows": [
+          [
+            "Thirteenth (1865)",
+            "Abolished slavery, which ended the counting of enslaved persons under the three-fifths formula."
+          ],
+          [
+            "Fourteenth (1868)",
+            "Defined citizenship for all persons born or naturalized in the United States, extending it to formerly enslaved people. Section 2 rewrote apportionment to count the whole number of persons in each state. Also added due process and equal protection."
+          ],
+          [
+            "Fifteenth (1870)",
+            "Barred denial of the vote on account of race, color, or previous condition of servitude — the first constitutional limit on state authority over voter qualifications."
+          ],
+          [
+            "Sixteenth (1913)",
+            "Allowed Congress to tax incomes without apportioning the tax among the states by population."
+          ],
+          [
+            "Seventeenth (1913)",
+            "Replaced selection of senators by state legislatures with direct election by voters."
+          ],
+          [
+            "Twenty-Second (1951)",
+            "Limited the president to two elected terms, where the original text set no limit."
+          ]
+        ]
+      }
+    ]
+  }
+}

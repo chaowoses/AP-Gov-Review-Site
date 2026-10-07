@@ -1,0 +1,270 @@
+{
+  "reference": {
+    "title": "Quick reference",
+    "lede": "The cross-cutting material that does not belong to any one topic. This is the page to reopen the night before a test.",
+    "summary": "Who holds which powers, grants and mandates, key clauses, the two required cases, a timeline, Federalist No. 39",
+    "sections": [
+      {
+        "title": "Who holds which powers",
+        "kind": "table",
+        "cols": [
+          "Type",
+          "Who holds it",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "Enumerated (expressed)",
+            "National — exclusive",
+            "Declare war · coin money · regulate interstate commerce · make treaties · raise an army · naturalize citizens"
+          ],
+          [
+            "Implied",
+            "National — exclusive",
+            "Create a national bank · establish an air force. Inferred from the Necessary and Proper Clause."
+          ],
+          [
+            "Reserved",
+            "States",
+            "License professions · run elections · regulate intrastate commerce · marriage and divorce · public schools · create local governments"
+          ],
+          [
+            "Concurrent",
+            "Both",
+            "Collect taxes · borrow money · make and enforce laws · build roads · establish courts"
+          ],
+          [
+            "Denied to the states",
+            "—",
+            "Enter treaties · coin money · tax imports or exports without Congress’s consent · tax federal institutions"
+          ],
+          [
+            "Denied to both",
+            "—",
+            "Grant titles of nobility · pass ex post facto laws · pass bills of attainder"
+          ]
+        ]
+      },
+      {
+        "title": "Grants, mandates, and conditions of aid",
+        "kind": "table",
+        "cols": [
+          "Tool",
+          "What it is",
+          "Who prefers it / how common"
+        ],
+        "rows": [
+          [
+            "Categorical grant",
+            "Money restricted to specific categories of spending",
+            "Preferred by the national government · most commonly used"
+          ],
+          [
+            "Block grant",
+            "Money for a broad policy area with minimal restrictions",
+            "Preferred by the states"
+          ],
+          [
+            "Revenue sharing",
+            "Money with almost no restrictions",
+            "Least used · 1972 to 1986"
+          ],
+          [
+            "Mandate",
+            "A requirement the national government places on the states",
+            "Unfunded mandates are the ones states object to most"
+          ],
+          [
+            "Cross-cutting requirement",
+            "A condition attached to nearly all federal grants",
+            "Example: nondiscrimination rules"
+          ],
+          [
+            "Crossover sanction",
+            "Money in one program withheld to change policy in another",
+            "Example: highway funds and the drinking age"
+          ],
+          [
+            "Preemption",
+            "Federal law displaces state law on the same subject",
+            "Grounded in the Supremacy Clause; no money involved"
+          ]
+        ]
+      },
+      {
+        "title": "Constitutional provisions that shape federalism",
+        "kind": "table",
+        "cols": [
+          "Provision",
+          "Where",
+          "What it does for federalism"
+        ],
+        "rows": [
+          [
+            "Necessary and Proper Clause",
+            "Article I",
+            "Basis of implied powers. Read broadly in McCulloch."
+          ],
+          [
+            "Commerce Clause",
+            "Article I",
+            "National power over interstate commerce. Read broadly from the late 1930s; limited in Lopez."
+          ],
+          [
+            "Full Faith and Credit Clause",
+            "Article IV",
+            "States honor each other’s public acts, records, and court judgments."
+          ],
+          [
+            "Supremacy Clause",
+            "Article VI",
+            "The Constitution and valid federal law prevail over state law. Basis of preemption; applied in McCulloch."
+          ],
+          [
+            "Tenth Amendment",
+            "Amendment X",
+            "Reserves undelegated powers to the states or the people."
+          ],
+          [
+            "Fourteenth Amendment",
+            "Amendment XIV",
+            "No state may deny due process or equal protection. Basis of selective incorporation."
+          ],
+          [
+            "Sixteenth Amendment",
+            "Amendment XVI",
+            "Federal income tax — the money behind modern grants."
+          ],
+          [
+            "Seventeenth Amendment",
+            "Amendment XVII",
+            "Voters elect senators; state legislatures lose their direct voice in Congress."
+          ]
+        ]
+      },
+      {
+        "title": "The two required cases",
+        "kind": "table",
+        "cols": [
+          "",
+          "McCulloch v. Maryland (1819)",
+          "United States v. Lopez (1995)"
+        ],
+        "rows": [
+          [
+            "Facts",
+            "Congress chartered a national bank. Maryland taxed its Baltimore branch, and the cashier, James McCulloch, refused to pay.",
+            "A high school student was convicted under the federal Gun-Free School Zones Act of 1990 for bringing a handgun to school."
+          ],
+          [
+            "Constitutional question",
+            "Can Congress create a bank? Can a state tax it?",
+            "Does the Commerce Clause give Congress power to ban guns in school zones?"
+          ],
+          [
+            "Holding",
+            "Yes, Congress may create the bank (Necessary and Proper Clause). No, Maryland may not tax it (Supremacy Clause). Unanimous.",
+            "No. The law exceeded Congress’s commerce power. 5–4."
+          ],
+          [
+            "Reasoning",
+            "“Necessary” means appropriate, not indispensable. A state that could tax a federal institution could destroy it.",
+            "Gun possession near a school is not economic activity that substantially affects interstate commerce. Upholding the law would give Congress a general police power."
+          ],
+          [
+            "Direction",
+            "Toward national power",
+            "Toward the states"
+          ]
+        ]
+      },
+      {
+        "title": "How the balance has shifted",
+        "kind": "table",
+        "cols": [
+          "Period",
+          "What happened",
+          "Direction"
+        ],
+        "rows": [
+          [
+            "1789–1930s",
+            "Dual federalism — separate spheres",
+            "—"
+          ],
+          [
+            "1819",
+            "McCulloch v. Maryland — implied powers and national supremacy",
+            "National"
+          ],
+          [
+            "1868",
+            "Fourteenth Amendment — national limits on states",
+            "National"
+          ],
+          [
+            "1913",
+            "Sixteenth Amendment (income tax) and Seventeenth Amendment (direct election of senators)",
+            "National"
+          ],
+          [
+            "1930s",
+            "New Deal — cooperative federalism begins",
+            "National"
+          ],
+          [
+            "1960s",
+            "Civil rights laws and expanded categorical grants",
+            "National"
+          ],
+          [
+            "1972–1986",
+            "General revenue sharing",
+            "States"
+          ],
+          [
+            "1980s–1990s",
+            "Devolution — block grants, UMRA (1995), Welfare Reform (1996), Lopez (1995)",
+            "States"
+          ],
+          [
+            "2015",
+            "Every Student Succeeds Act replaces No Child Left Behind",
+            "States"
+          ]
+        ]
+      },
+      {
+        "title": "Federalist No. 39 — Madison’s five tests",
+        "kind": "table",
+        "cols": [
+          "Madison’s test",
+          "National or federal?"
+        ],
+        "rows": [
+          [
+            "Foundation — how the Constitution is ratified",
+            "Federal: ratified by the people acting as separate states"
+          ],
+          [
+            "Sources of power",
+            "Partly federal, partly national: the House from the people, the Senate from the states"
+          ],
+          [
+            "Operation — whom the powers act on",
+            "National: directly on individual citizens"
+          ],
+          [
+            "Extent — what the powers cover",
+            "Federal: “certain enumerated objects only”; everything else stays with the states"
+          ],
+          [
+            "Amendment process",
+            "Neither wholly federal nor wholly national"
+          ]
+        ],
+        "note": "Remember: in Federalist No. 39, “federal” means the states — a league of states, what we would call a confederation. “National” means a government that acts directly on individuals. It is not today’s meaning of “the federal government.”"
+      }
+    ]
+  }
+}

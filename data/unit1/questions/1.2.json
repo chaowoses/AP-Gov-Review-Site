@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 8,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Pluralist democracy",
+      "stim": [],
+      "cite": "",
+      "stem": "A national teachers’ union, an association of school administrators, and a parents’ advocacy organization each testify before a state legislature about a proposed curriculum law. The bill that eventually passes reflects concessions to all three. Which model of representative democracy does this best illustrate, and why?",
+      "opts": [
+        "Participatory, because a large number of citizens are represented by the organizations involved",
+        "Pluralist, because organized interest groups compete to shape the policy outcome",
+        "Elite, because only a small number of organizations were able to testify",
+        "Participatory, because the legislature responded directly to public input"
+      ],
+      "ans": 1,
+      "why": [
+        "Watch this one. Participatory democracy means individuals engaging broadly — voting, protesting, showing up. Membership organizations acting on behalf of members is group activity, not broad individual participation.",
+        "Pluralist democracy emphasizes group-based activism by nongovernmental interests seeking to influence political decisions. Three organized groups bargaining their way to a compromise is the clearest example of that model.",
+        "There is real surface appeal here, since only three groups appear. But elite democracy is about a small number of individuals with disproportionate power — wealth, status, or high office — not about how many organizations testified.",
+        "Same problem as choice A. The input came through organized groups, not directly from individual citizens."
+      ],
+      "note": ""
+    },
+    {
+      "id": 9,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Participatory democracy",
+      "stim": [],
+      "cite": "",
+      "stem": "A city holds open town hall meetings on its budget, places a spending measure on the ballot for a direct public vote, and runs a registration drive that raises turnout sharply. Which model does this best illustrate?",
+      "opts": [
+        "Elite",
+        "Pluralist",
+        "Participatory",
+        "Republican"
+      ],
+      "ans": 2,
+      "why": [
+        "Elite democracy emphasizes limited participation by a small number of powerful individuals. Everything here does the reverse.",
+        "Pluralist democracy works through organized interest groups. No groups appear in this scenario — individuals participate directly.",
+        "Participatory democracy emphasizes broad participation in politics and civil society. Town halls, ballot measures, and turnout drives all widen direct individual involvement.",
+        "Republicanism is a principle of American government, not one of the three models of representative democracy. The three models are participatory, pluralist, and elite."
+      ],
+      "note": ""
+    },
+    {
+      "id": 10,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Elite democracy",
+      "stim": [],
+      "cite": "",
+      "stem": "A political party’s platform is drafted by a committee made up of major donors, former officeholders, and senior party strategists. Rank-and-file members are not consulted before the draft is finished. Which model does this best illustrate?",
+      "opts": [
+        "Elite",
+        "Participatory",
+        "Pluralist",
+        "Direct"
+      ],
+      "ans": 0,
+      "why": [
+        "Elite democracy emphasizes limited participation, with political decisions made by a small number of people who hold disproportionate influence through wealth, experience, or position.",
+        "Participatory democracy would require broad member involvement, which the scenario specifically rules out.",
+        "Pluralist democracy involves competition among organized groups outside government. Here the decision-makers are insiders within a single party, not competing groups.",
+        "Direct democracy is not one of the three models named in the course. Stick to participatory, pluralist, and elite."
+      ],
+      "note": ""
+    },
+    {
+      "id": 11,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Brutus No. 1 · models of democracy",
+      "stim": [
+        "“…the manner of the choice and the number chosen, must be such, as to possess, be disposed, and consequently qualified to declare the sentiments of the people; for if they do not know, or are not disposed to speak the sentiments of the people, the people do not govern, but the sovereignty is in a few.”"
+      ],
+      "cite": "Brutus No. 1 (1787)",
+      "stem": "Brutus’s standard for representation aligns most closely with which model of representative democracy?",
+      "opts": [
+        "Elite",
+        "Pluralist",
+        "Participatory",
+        "Pluralist and elite equally"
+      ],
+      "ans": 2,
+      "why": [
+        "The reverse. Brutus names the concentration of sovereignty “in a few” as the danger to avoid — that is his description of the elite outcome he fears.",
+        "Pluralism runs through organized interest groups, which is not what this passage is about.",
+        "Brutus insists representatives must closely mirror the people’s actual sentiments, and warns that anything less means the people do not really govern. That demand for close correspondence between citizens and government belongs to the participatory model.",
+        "Both of these describe filtered participation, and Brutus is arguing against filtering."
+      ],
+      "note": ""
+    },
+    {
+      "id": 12,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Models in contemporary institutions",
+      "stim": [],
+      "cite": "",
+      "stem": "Several states allow citizens to place a proposed law directly on the ballot by gathering enough signatures, bypassing the legislature entirely. This process most clearly reflects which model of representative democracy?",
+      "opts": [
+        "Pluralist",
+        "Participatory",
+        "Elite",
+        "Neither participatory nor pluralist"
+      ],
+      "ans": 1,
+      "why": [
+        "Interest groups often organize signature drives, which makes this tempting. But the process itself is built to let ordinary citizens legislate directly, and that is a participatory design.",
+        "The initiative process maximizes direct individual involvement in lawmaking, which is the defining feature of participatory democracy. The three models are still visible in institutions today, and this is one of the clearest examples.",
+        "Elite democracy limits participation to a small, powerful group. The initiative process opens lawmaking to anyone who can gather signatures.",
+        "It clearly reflects one of them — participatory."
+      ],
+      "note": ""
+    },
+    {
+      "id": 13,
+      "g": "1.2",
+      "topic": "1.2",
+      "concept": "Pluralist vs. elite",
+      "stim": [],
+      "cite": "",
+      "stem": "More than three hundred registered organizations submit written comments on a proposed federal regulation. The final rule incorporates changes requested by several of them. Which model does this best illustrate, and why?",
+      "opts": [
+        "Elite, because the officials writing the rule are unelected experts",
+        "Pluralist, because many organized groups compete to influence the outcome",
+        "Participatory, because the comment period is open to the public",
+        "Elite, because only organizations with legal staff can file comments"
+      ],
+      "ans": 1,
+      "why": [
+        "A real consideration — rulemaking is done by unelected officials — but the question asks what the described process illustrates, and what is described is group competition, not decision-making by a narrow elite.",
+        "Hundreds of organized nongovernmental groups pressing for influence, with the outcome reflecting several of them, is pluralism operating at full scale.",
+        "The comment period is open, but what the scenario actually describes is organizations filing, not individuals. Group activity points to pluralism.",
+        "Another real consideration, and a genuine criticism of pluralism. Still, the scenario describes many groups competing, which is the pluralist pattern."
+      ],
+      "note": ""
+    }
+  ]
+}

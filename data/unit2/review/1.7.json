@@ -1,0 +1,43 @@
+{
+  "review": [
+    {
+      "g": "1.7",
+      "num": "1.7",
+      "name": "Relationship Between the States and National Government",
+      "lo": "LO 1.7.A — Explain how the constitutional allocation of power between the national and state governments affects society.",
+      "core": "Federalism divides governing power between a national government and state governments, and each level has authority the other can’t simply take away. Knowing which level holds which power explains most of the arguments about federalism that follow.",
+      "blocks": [
+        [
+          "Three ways to organize power",
+          "Unitary — the central government holds all authority; regional governments exist only because it created them. Confederation — sovereign states delegate limited authority to a weak central government (the Articles of Confederation). Federal — both levels have constitutional authority of their own (the U.S. Constitution). Inside each state, the relationship with cities and counties works like a unitary system: local governments are creations of the state."
+        ],
+        [
+          "Who holds which powers",
+          "Exclusive national powers include enumerated powers, written in the Constitution (declare war, coin money, regulate interstate commerce), and implied powers, inferred from the Necessary and Proper Clause (create a national bank). Reserved powers belong to the states under the Tenth Amendment (licensing professions, running elections, marriage law, public education). Concurrent powers belong to both (collect taxes, borrow money, make and enforce laws, build roads, establish courts). Some powers are denied to one level or both — no state may enter a treaty or coin money, and neither level may pass an ex post facto law."
+        ],
+        [
+          "Federalist No. 39",
+          "Madison argues the Constitution is “neither a national nor a federal Constitution, but a composition of both.” It is national where its powers act directly on individuals, and federal (his word for state-centered) where its authority is limited to “certain enumerated objects only,” leaving the states “a residuary and inviolable sovereignty over all other objects.” Mixing the two limits the concentration of power and gives citizens multiple access points for participation."
+        ],
+        [
+          "Why it matters",
+          "Advantages: checks tyranny, allows unity without uniformity, lets states serve as laboratories of democracy, trains future national leaders, and keeps government closer to the people. Drawbacks: slower national responses, blurred accountability, conflict between state policies, duplication, and benefits that vary widely from state to state."
+        ]
+      ],
+      "traps": [
+        [
+          "Madison’s “federal” is not today’s “federal”",
+          "In Federalist No. 39, “federal” means a league of states — what we now call a confederation. “The federal government” today just means the national government."
+        ],
+        [
+          "Separation of powers versus federalism",
+          "Separation of powers divides authority among branches. Federalism divides it between levels. A question about states versus Washington is never about separation of powers."
+        ],
+        [
+          "Concurrent is not the same as implied",
+          "Implied powers belong to the national government alone. Concurrent powers belong to both levels at once."
+        ]
+      ]
+    }
+  ]
+}

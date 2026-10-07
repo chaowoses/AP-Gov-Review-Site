@@ -1,0 +1,376 @@
+{
+  "questions": [
+    {
+      "id": 226,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "McCulloch v. Maryland · holdings",
+      "stim": [],
+      "cite": "",
+      "stem": "In McCulloch v. Maryland (1819), the Supreme Court ruled that",
+      "opts": [
+        "Congress could create a national bank under the Necessary and Proper Clause, and Maryland could not tax it under the Supremacy Clause",
+        "Congress could create a national bank under the Necessary and Proper Clause, but Maryland could tax it because taxing is a concurrent power",
+        "Congress lacked power to create a bank, because the Constitution does not list banking among its enumerated powers",
+        "the national bank violated the Tenth Amendment by taking over a power the Constitution reserves to the states"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Two holdings, two clauses. Implied powers allowed the bank to exist; national supremacy kept the state from taxing it.",
+        "Half right. The Court upheld the bank, but it also held that Maryland could not tax it. A state can’t use even a concurrent power against a valid institution of the national government.",
+        "This was Maryland’s argument, and it lost. The Court held that Congress has implied powers beyond the ones listed.",
+        "The Court rejected this. Because creating the bank was a valid exercise of an implied national power, it wasn’t a reserved state power."
+      ],
+      "note": "McCulloch has two holdings, and many responses earn only half credit by naming one. Necessary and Proper: Congress may create the bank. Supremacy: Maryland may not tax it."
+    },
+    {
+      "id": 227,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "McCulloch · broad reading of necessary and proper",
+      "stim": [
+        "“Let the end be legitimate, let it be within the scope of the Constitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited, but consist with the letter and spirit of the Constitution, are Constitutional.”"
+      ],
+      "cite": "Chief Justice John Marshall, McCulloch v. Maryland (1819)",
+      "stem": "The reasoning in this passage most directly supports which interpretation of the Necessary and Proper Clause?",
+      "opts": [
+        "Congress may use only those means that are absolutely essential to carrying out one of its enumerated powers.",
+        "Congress may pursue any goal it considers good for the country, whether or not the goal is tied to a listed power.",
+        "Congress may use any reasonable means to carry out its enumerated powers, as long as those means are not prohibited.",
+        "States may decide for themselves which federal laws are constitutional and refuse to follow the others."
+      ],
+      "ans": 2,
+      "why": [
+        "This is the narrow reading Marshall rejects. If “necessary” meant indispensable, almost nothing beyond the listed powers would survive.",
+        "The end still has to be “legitimate” and “within the scope of the Constitution.” The flexibility is in the means, not the goals.",
+        "Right. Marshall reads “necessary” as “appropriate” or “plainly adapted” — useful — not “absolutely essential.” That broad reading is the foundation of implied powers.",
+        "The case rejected Maryland’s attempt to burden a federal institution. Nothing in this passage gives states that authority."
+      ],
+      "note": ""
+    },
+    {
+      "id": 228,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "McCulloch · the power to tax",
+      "stim": [],
+      "cite": "",
+      "stem": "Chief Justice Marshall wrote that “the power to tax involves the power to destroy.” He used this reasoning to conclude that",
+      "opts": [
+        "Congress may not tax state governments or their citizens without the consent of the state legislatures",
+        "a state may not tax a national institution, because a state could use the tax to undermine valid federal law",
+        "taxation is an exclusive national power that the Constitution denies to state governments",
+        "Maryland could tax the bank only if the tax was small enough not to threaten its operations"
+      ],
+      "ans": 1,
+      "why": [
+        "Congress taxes individuals in every state. The case concerned a state taxing the national government, not the other way around.",
+        "Right. If Maryland could tax the bank, it could tax it out of existence — letting a state override a national law. The Supremacy Clause forbids that.",
+        "States tax all the time. Taxing is concurrent. The point is narrower: states can’t tax federal institutions.",
+        "Marshall’s point is that the size doesn’t matter. A power to tax at all is a power that could be used to destroy."
+      ],
+      "note": ""
+    },
+    {
+      "id": 229,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "United States v. Lopez · holding",
+      "stim": [],
+      "cite": "",
+      "stem": "In United States v. Lopez (1995), the Supreme Court struck down the Gun-Free School Zones Act because",
+      "opts": [
+        "the law violated the Second Amendment because it barred law-abiding adults from carrying firearms anywhere near a school",
+        "gun possession near a school isn’t economic activity that substantially affects interstate commerce, so Congress exceeded its commerce power",
+        "the law denied students due process by punishing them under federal rather than state criminal law",
+        "the Constitution reserves all criminal law to the states, so Congress may not create any federal crimes"
+      ],
+      "ans": 1,
+      "why": [
+        "This is the biggest trap with Lopez. It is not a Second Amendment case. The question was whether Congress had the power to pass the law at all.",
+        "Right. The government argued that guns near schools affect education and so the national economy. The Court held that chain of reasoning was too long — this law wasn’t a regulation of commerce.",
+        "Due process wasn’t the issue. The case was about the limits of an enumerated power of Congress.",
+        "Congress passes many federal criminal laws. The problem was that this one wasn’t tied to any of its enumerated powers."
+      ],
+      "note": "Lopez is a federalism case, not a gun-rights case. The question was where Congress’s commerce power ends and the states’ police power begins."
+    },
+    {
+      "id": 230,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Lopez · police power",
+      "stim": [
+        "“To uphold the Government’s contentions here, we would have to pile inference upon inference in a manner that would bid fair to convert congressional authority under the Commerce Clause to a general police power of the sort retained by the States.”"
+      ],
+      "cite": "Chief Justice William Rehnquist, United States v. Lopez (1995)",
+      "stem": "The reasoning in this passage most directly reflects which concern?",
+      "opts": [
+        "States have used their police powers to interfere with commerce, so Congress must be able to regulate them.",
+        "Congress must defer to the president and to federal agencies on matters of criminal law enforcement.",
+        "If nearly any activity counted as affecting commerce, Congress would gain the general power the Constitution leaves to the states.",
+        "The Commerce Clause was written to cover trade with foreign nations and tribes, not activity inside the borders of a state."
+      ],
+      "ans": 2,
+      "why": [
+        "The passage is worried about Congress taking state power, not the reverse.",
+        "The passage is about Congress and the states. The president isn’t part of the argument.",
+        "Right. Rehnquist’s worry is that unlimited inferences would erase the line between enumerated national powers and the broad authority reserved to the states.",
+        "The clause covers commerce “among the several States” too. The question is how far that reaches, not whether it exists."
+      ],
+      "note": "“Police power” here doesn’t mean police departments. It is the states’ general authority to regulate for health, safety, welfare, and morals — the broad power the Constitution never gave the national government."
+    },
+    {
+      "id": 231,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Lopez · significance",
+      "stim": [],
+      "cite": "",
+      "stem": "Why was United States v. Lopez significant for federalism?",
+      "opts": [
+        "It greatly expanded Congress’s power to regulate local activity that affects the national economy in any way.",
+        "It established the Supreme Court’s power to declare acts of Congress unconstitutional for the first time.",
+        "It applied the Second Amendment right to keep and bear arms to state and local governments.",
+        "It was the first time in decades the Court limited the commerce power, shifting some authority back to the states."
+      ],
+      "ans": 3,
+      "why": [
+        "Lopez did the opposite. It restricted Congress’s commerce power.",
+        "That is judicial review, established in Marbury v. Madison (1803). Lopez used that power; it didn’t create it.",
+        "Applying the Second Amendment to the states came later, in McDonald v. Chicago (2010), another required case. Lopez isn’t a Second Amendment case at all.",
+        "Right. For nearly sixty years the Court had upheld nearly every use of the Commerce Clause. Lopez drew a line, which is why it is linked to the devolution of the 1990s."
+      ],
+      "note": ""
+    },
+    {
+      "id": 232,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "McCulloch vs. Lopez",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best compares the two required federalism cases?",
+      "opts": [
+        "McCulloch expanded national power through the Necessary and Proper Clause; Lopez limited it through the Commerce Clause.",
+        "Both cases expanded national power, first through implied powers and later through the commerce power.",
+        "Both cases limited national power, first by protecting state taxes and later by protecting state police power.",
+        "McCulloch limited national power under the Commerce Clause; Lopez expanded it under the Necessary and Proper Clause."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Same question — how far do Congress’s powers reach? — answered in opposite directions, under different clauses, nearly two centuries apart.",
+        "McCulloch did. Lopez pulled back.",
+        "Lopez did. McCulloch strengthened the national government.",
+        "Both the direction and the clauses are switched."
+      ],
+      "note": ""
+    },
+    {
+      "id": 233,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Commerce Clause · aggregate effects",
+      "stim": [],
+      "cite": "",
+      "stem": "In the 1940s, the Court upheld a federal limit on how much wheat a farmer could grow, even wheat grown only to feed his own animals. The Court reasoned that if many farmers did the same, the combined effect on the national wheat market would be substantial. This reasoning",
+      "opts": [
+        "limited the Commerce Clause to goods that physically cross state lines on their way to market",
+        "expanded the Commerce Clause to reach local activity whose combined national effect is substantial",
+        "reserved the regulation of farming to the states under the Tenth Amendment’s reserved powers",
+        "relied on the Supremacy Clause to strike down a state law that limited wheat production"
+      ],
+      "ans": 1,
+      "why": [
+        "The wheat never left the farm, and the law was upheld anyway. That is the opposite of a crossing-state-lines rule.",
+        "Right. Even purely local activity can be regulated if, added up across the country, it substantially affects interstate commerce. This reasoning greatly expanded national power.",
+        "The national rule won. The Tenth Amendment argument lost.",
+        "No state law was struck down. The case was about whether a federal law could reach the farmer at all."
+      ],
+      "note": "You don’t need this case’s name. What matters is the idea: from the late 1930s on, the Court read the Commerce Clause broadly, which is why Lopez in 1995 was such a turn."
+    },
+    {
+      "id": 234,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Commerce Clause · economic vs. non-economic activity",
+      "stim": [],
+      "cite": "",
+      "stem": "The Court upheld national limits on wheat a farmer grew for his own use but struck down the Gun-Free School Zones Act in United States v. Lopez. Which difference in the facts best explains the different outcomes?",
+      "opts": [
+        "The wheat was grown to be shipped and sold across state lines, while the gun stayed within a single state the whole time.",
+        "The wheat law was passed by Congress, while the gun law was passed by a state.",
+        "Growing wheat is economic activity in a national market; carrying a gun near a school is not economic activity.",
+        "The farmer relied on the Tenth Amendment, while Lopez relied on the Second Amendment."
+      ],
+      "ans": 2,
+      "why": [
+        "The extra wheat never left the farm — it fed the farmer’s own animals. Crossing state lines wasn’t the difference.",
+        "Both were federal laws. That is why both raised a Commerce Clause question.",
+        "Right. The wheat case was about producing a commodity bought and sold nationwide, so local activity added up to a real market effect. Gun possession near a school isn’t commerce of any kind.",
+        "Lopez was decided on the Commerce Clause, not the Second Amendment."
+      ],
+      "note": "The economic/non-economic line is the core of Lopez. A good answer explains it as a difference in the activity being regulated, not just a difference in the result."
+    },
+    {
+      "id": 235,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Commerce Clause · civil rights",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress relied on the Commerce Clause when it banned racial discrimination by hotels and restaurants that serve interstate travelers in the Civil Rights Act of 1964. The Court upheld this use of the clause because",
+      "opts": [
+        "the Tenth Amendment gives Congress authority over local businesses",
+        "the Full Faith and Credit Clause requires states to honor federal civil rights laws",
+        "discrimination by businesses that serve travelers burdened commerce among the states",
+        "hotels are run by state governments and therefore fall under federal supervision"
+      ],
+      "ans": 2,
+      "why": [
+        "The Tenth Amendment reserves power to the states. It grants Congress nothing.",
+        "Full faith and credit concerns states honoring other states’ acts. It isn’t a source of congressional power.",
+        "Right. The Court accepted evidence that discrimination discouraged travel and interstate business. That made it a commerce problem Congress could address.",
+        "These were private businesses. That is exactly why Congress needed a power like the Commerce Clause to reach them."
+      ],
+      "note": ""
+    },
+    {
+      "id": 236,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Supremacy Clause · state law vs. federal law",
+      "stim": [],
+      "cite": "",
+      "stem": "A state legalizes marijuana for medical use, but federal law still prohibits it. Based on the Supremacy Clause and the Court’s reading of the Commerce Clause, which statement is accurate?",
+      "opts": [
+        "State law overrides federal law within the state, because the state’s voters approved it more recently.",
+        "Federal law applies only to marijuana that is shipped or sold across state lines, not to local use.",
+        "The Tenth Amendment forbids federal enforcement in any state that has legalized medical use of the drug.",
+        "Federal law can still be enforced there, even against marijuana grown and used entirely within the state."
+      ],
+      "ans": 3,
+      "why": [
+        "The Supremacy Clause runs the other way. Valid federal law prevails over conflicting state law.",
+        "The Court rejected this. Local growing and use, added up across the country, affect the national market.",
+        "Reserved powers let states set their own criminal laws, but they don’t cancel a valid federal law.",
+        "Right. A valid federal law takes precedence over conflicting state law, and the Court has held that Congress’s commerce power reaches even locally grown marijuana. Whether federal officials choose to enforce it is a separate question."
+      ],
+      "note": "“Legal under state law” and “legal” aren’t the same thing. A state can stop punishing an activity under its own law while federal law still forbids it."
+    },
+    {
+      "id": 237,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Anti-commandeering",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress passes a law ordering county sheriffs to run background checks for a federal gun program until a national system is ready. Based on the Court’s interpretation of the Tenth Amendment, this requirement is most likely",
+      "opts": [
+        "constitutional, because the Supremacy Clause requires state officials to carry out federal law",
+        "constitutional, because enforcing laws is a concurrent power that both levels of government share equally",
+        "unconstitutional, because the national government may not order state officials to carry out a federal program",
+        "unconstitutional, because requiring background checks before a purchase violates the Second Amendment"
+      ],
+      "ans": 2,
+      "why": [
+        "The Supremacy Clause makes valid federal law supreme. The Court has held that ordering state officers to administer a federal program isn’t a valid exercise of national power.",
+        "Both levels do enforce laws. That doesn’t mean one level can order the other’s officers around.",
+        "Right. Congress can regulate individuals directly, and it can offer states money to help. But it can’t commandeer state officers and make them administer federal law.",
+        "The problem was who was being ordered to act, not the background checks themselves. This is a federalism question."
+      ],
+      "note": "Washington can regulate people directly, and it can pay states to help — but it can’t order state officials to do its work."
+    },
+    {
+      "id": 238,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Fourteenth Amendment · national power over states",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best explains how the Fourteenth Amendment changed the balance of power between the national and state governments?",
+      "opts": [
+        "It let the national government enforce due process and equal protection against the states, limiting what states may do.",
+        "It allowed the states to enforce the Bill of Rights against the national government for the first time.",
+        "It restricted national power by giving the states control over who qualifies as a citizen.",
+        "It allowed Congress to collect taxes on incomes from any source, without apportioning them among the states by population."
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Section 1 says “No State shall” deprive any person of due process or equal protection. Those limits on states are enforced by Congress and the federal courts — a major shift toward national power.",
+        "The Bill of Rights already limited the national government. The Fourteenth Amendment is aimed at the states.",
+        "It did the reverse. It defined national citizenship and placed new limits on states.",
+        "That is the Sixteenth Amendment (1913)."
+      ],
+      "note": ""
+    },
+    {
+      "id": 239,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Selective incorporation",
+      "stim": [],
+      "cite": "",
+      "stem": "Through the Due Process Clause of the Fourteenth Amendment, the Supreme Court has applied most of the protections in the Bill of Rights to the states, one case at a time. This process",
+      "opts": [
+        "is called judicial review, and it expands what state governments may do to protect individual rights",
+        "is called devolution, and it returns power to the states",
+        "is called preemption, and it allows Congress to displace state laws",
+        "is called selective incorporation, and it restricts what state governments may do"
+      ],
+      "ans": 3,
+      "why": [
+        "Judicial review is the power to strike down unconstitutional laws. And incorporation restricts states — it doesn’t expand them.",
+        "Devolution shifts power toward states. Incorporation moves the other way.",
+        "Preemption is Congress displacing state law. Incorporation is the Court applying constitutional rights to the states.",
+        "Right. Before incorporation, the Bill of Rights limited only the national government. Incorporation extends those limits to state governments, case by case. You’ll study this in depth in the civil liberties unit."
+      ],
+      "note": ""
+    },
+    {
+      "id": 240,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Limits of the Supremacy Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "A federal law and a state law directly conflict. For the federal law to prevail under the Supremacy Clause, which must be true?",
+      "opts": [
+        "The federal law must have been passed more recently than the state law it conflicts with.",
+        "The legislature of the affected state must have voted to consent to the federal law before it took effect.",
+        "The federal law must be a valid exercise of a power the Constitution grants the national government.",
+        "A majority of the nation’s governors must have approved the federal law."
+      ],
+      "ans": 2,
+      "why": [
+        "Timing doesn’t matter. A valid federal law prevails whether it came first or second.",
+        "If state consent were required, federal law wouldn’t be supreme at all. This is how the Articles of Confederation worked.",
+        "Right. The clause covers laws “made in Pursuance” of the Constitution. If Congress acted outside its powers — as in Lopez — the federal law is void, and there is nothing for the state law to yield to.",
+        "Governors have no role in approving federal law."
+      ],
+      "note": "Supremacy is not a blank check. Federal law wins only when Congress was acting within its constitutional powers — which is why courts must first decide whether a federal law is valid."
+    },
+    {
+      "id": 241,
+      "g": "1.8",
+      "topic": "1.8",
+      "concept": "Commerce defined broadly",
+      "stim": [],
+      "cite": "",
+      "stem": "In 1824, the Supreme Court defined “commerce” to include navigation and transportation between states, not just the buying and selling of goods. Compared with a narrow definition, this interpretation",
+      "opts": [
+        "expanded the power of the states relative to the national government",
+        "removed Congress’s power over commerce within a single state",
+        "expanded the power of the national government relative to the states",
+        "transferred the commerce power from Congress to the courts"
+      ],
+      "ans": 2,
+      "why": [
+        "A broader definition of commerce widens a national power. It doesn’t give states anything.",
+        "This ruling widened the definition of commerce. It didn’t remove any power from Congress.",
+        "Right. The more activity counts as commerce, the more Congress can regulate under the Commerce Clause.",
+        "The Court interpreted the clause, but the power still belongs to Congress."
+      ],
+      "note": ""
+    }
+  ]
+}

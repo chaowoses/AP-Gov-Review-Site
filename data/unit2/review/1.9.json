@@ -1,0 +1,35 @@
+{
+  "review": [
+    {
+      "g": "1.9",
+      "num": "1.9",
+      "name": "Federalism in Action",
+      "lo": "LO 1.9.A — Explain how the distribution of powers between national and state governments impacts policymaking.",
+      "core": "Federalism shapes policymaking as well as structure. Because power is split between levels, people and groups have more places to push for change, and national leaders have to work through state governments that can resist, delay, or reshape what Washington wants.",
+      "blocks": [
+        [
+          "Multiple access points",
+          "Stakeholders can pursue their goals at the local, state, or national level — whichever is most receptive. A group blocked in Congress can turn to state legislatures, ballot initiatives, governors, or state courts, and a policy that succeeds in one state can spread to others or to Washington."
+        ],
+        [
+          "Constraints on national policy",
+          "Because states share powers and run many national programs, national policymaking is constrained. States administer elections, Medicaid, education, and much environmental enforcement. When the Court made a national expansion of health coverage optional, some states declined for years, so the policy reached people in some states and not others."
+        ],
+        [
+          "Federalism in conflict",
+          "When state and federal policy diverge — recreational marijuana is the clearest current example — a state may repeal its own penalties, and the national government can’t order state officers to enforce federal law. Federal law still applies, though, and federal officials may still enforce it."
+        ]
+      ],
+      "traps": [
+        [
+          "Naming instead of explaining",
+          "“This shows federalism” earns nothing. Explain the mechanism: which level acted, what power it used, and how the other level constrained or responded to it."
+        ],
+        [
+          "Access points come from structure",
+          "Multiple access points exist because power is divided between levels, not because citizens are especially active. Tie your explanation to the allocation of power."
+        ]
+      ]
+    }
+  ]
+}

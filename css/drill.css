@@ -1,0 +1,15 @@
+/* Drill view */
+.streak{font-family:var(--ui); font-size:.85rem; font-weight:600; color:var(--ink-soft); display:flex; flex-wrap:wrap; gap:.25rem 1.25rem; margin:0 0 .75rem}
+.dq{font-family:var(--display); font-size:clamp(1.15rem, 1.05rem + .4vw, 1.4rem); line-height:1.4; font-weight:600; max-width:var(--measure); margin:0 0 1.25rem}
+.dopt{width:100%; min-height:var(--tap); text-align:left; background:var(--card); border:1px solid var(--rule); border-radius:var(--r);
+  padding:.875rem 1rem; font-size:1.02rem; font-family:var(--serif); box-shadow:var(--shadow); transition:border-color .12s, background .12s}
+.dopt:hover:not(:disabled){border-color:var(--accent); background:var(--accent-wash)}
+.dopt:disabled{cursor:default}
+.dopt.right{border-color:var(--correct); background:var(--correct-wash)}
+.dopt.chosen-wrong{border-color:var(--wrong); background:var(--wrong-wash)}
+.dopt.right,.dopt.chosen-wrong{border-width:2px; padding:calc(.875rem - 1px) calc(1rem - 1px); font-weight:600}
+.dopt .icon{margin-right:.5rem}
+.dopt.right .icon{color:var(--correct)}
+.dopt.chosen-wrong .icon{color:var(--wrong)}
+.dopt:disabled:not(.right):not(.chosen-wrong){opacity:.8}
+.dexp{color:var(--ink-soft); margin:1rem 0 0}

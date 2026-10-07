@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "id": 21,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · interstate commerce",
+      "stim": [],
+      "cite": "",
+      "stem": "Under the Articles of Confederation, two neighboring states each imposed duties on goods crossing their shared border. Merchants harmed by the duties had no national body to which they could appeal. Which weakness of the Articles does this most directly illustrate?",
+      "opts": [
+        "Lack of a national court system",
+        "Lack of power to regulate interstate commerce",
+        "Lack of the exclusive power to coin money",
+        "Lack of an executive branch to enforce laws, including taxation"
+      ],
+      "ans": 1,
+      "why": [
+        "The strongest distractor. “No national body to appeal to” pulls you toward the missing court system, which was also a genuine weakness. But a court cannot resolve a dispute over authority Congress never had. Read for the underlying problem, not the most familiar phrase.",
+        "Congress under the Articles had no authority over commerce between the states, so states were free to tax each other’s goods. That is the root of the problem described.",
+        "Currency was a separate weakness. Nothing here involves money being coined or valued differently.",
+        "An executive would enforce national law. The problem here is that no national commerce law existed to enforce."
+      ],
+      "note": ""
+    },
+    {
+      "id": 22,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · Shays’ Rebellion",
+      "stim": [],
+      "cite": "",
+      "stem": "In 1786 and 1787, armed farmers in Massachusetts shut down county courts to block foreclosure proceedings. The state appealed to the national government, which was unable to raise troops in response. Which weakness of the Articles does this episode most directly reveal?",
+      "opts": [
+        "Lack of centralized military power",
+        "Lack of a national court system",
+        "Lack of power to regulate interstate commerce",
+        "Lack of an amendment process"
+      ],
+      "ans": 0,
+      "why": [
+        "Shays’ Rebellion exposed the absence of centralized military power. Congress could request troops from the states but could not compel them, leaving the national government unable to respond to disorder. The episode helped convince many Americans that the Articles had to be replaced.",
+        "The rebellion did target courts, but the failure being tested here is the national government’s inability to respond, which was a military failure.",
+        "Commerce regulation is unrelated to putting down an armed uprising.",
+        "The Articles did have an amendment process — it simply required the agreement of all thirteen states, which made change nearly impossible."
+      ],
+      "note": ""
+    },
+    {
+      "id": 23,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · no executive",
+      "stim": [],
+      "cite": "",
+      "stem": "Under the Articles of Confederation, Congress could request funds from the states but had no way to compel payment, and several states routinely contributed less than requested. Which weakness does this illustrate?",
+      "opts": [
+        "Lack of a national court system",
+        "Lack of power to regulate interstate commerce",
+        "Lack of an executive branch to enforce laws, including taxation",
+        "Lack of the exclusive power to coin money"
+      ],
+      "ans": 2,
+      "why": [
+        "Courts resolve disputes. The issue here is enforcement, not adjudication.",
+        "The states are not taxing each other’s goods in this scenario — they are simply not paying what Congress asked for.",
+        "There was no executive to carry out and enforce national law, so a request for funds stayed a request. Congress could pass measures but had no branch capable of making states comply.",
+        "Currency is a separate weakness and does not appear in this scenario."
+      ],
+      "note": ""
+    },
+    {
+      "id": 24,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · no national courts",
+      "stim": [],
+      "cite": "",
+      "stem": "Under the Articles of Confederation, a dispute between two states over a boundary could not be settled by any permanent national tribunal. Which weakness does this illustrate?",
+      "opts": [
+        "Lack of a national court system",
+        "Lack of centralized military power",
+        "Lack of an executive branch",
+        "Lack of power to regulate interstate commerce"
+      ],
+      "ans": 0,
+      "why": [
+        "The Articles created no standing national judiciary, so disputes between states had no reliable forum for resolution.",
+        "Military power addresses force and disorder, not legal disputes over boundaries.",
+        "An executive enforces decisions. Here no decision can be reached in the first place.",
+        "A boundary dispute is not a commerce question."
+      ],
+      "note": ""
+    },
+    {
+      "id": 25,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · currency",
+      "stim": [],
+      "cite": "",
+      "stem": "Under the Articles of Confederation, individual states issued their own paper currency, and merchants doing business across state lines had to account for money of differing and unstable value. Which weakness does this illustrate?",
+      "opts": [
+        "Lack of an executive branch",
+        "Lack of the exclusive power to coin money",
+        "Lack of a national court system",
+        "Lack of centralized military power"
+      ],
+      "ans": 1,
+      "why": [
+        "An executive would enforce a uniform currency rule, but the deeper problem is that no exclusive national power over currency existed.",
+        "Congress could coin money under the Articles, but so could the states. Because that power was not exclusive, the country had competing currencies of unequal value.",
+        "Courts would not resolve a structural currency problem.",
+        "Unrelated to military authority."
+      ],
+      "note": "Note the word exclusive in this essential knowledge statement. The problem was not that Congress lacked the power — it was that the states had it too."
+    },
+    {
+      "id": 26,
+      "g": "1.4",
+      "topic": "1.4",
+      "concept": "AoC · amendment requirement",
+      "stim": [],
+      "cite": "",
+      "stem": "Amending the Articles of Confederation required the approval of",
+      "opts": [
+        "a simple majority of the states",
+        "two-thirds of the states",
+        "three-fourths of the states",
+        "all thirteen states"
+      ],
+      "ans": 3,
+      "why": [
+        "Far too low. The Articles set an extremely high bar for change.",
+        "Two-thirds is the threshold for proposing an amendment to the Constitution, not for amending the Articles.",
+        "Three-fourths is the threshold for ratifying a constitutional amendment. Be careful not to import Article V numbers into questions about the Articles.",
+        "Unanimity was required, which meant a single state could block any change. This is one reason delegates concluded the Articles could not be repaired and drafted a new constitution instead."
+      ],
+      "note": ""
+    }
+  ]
+}

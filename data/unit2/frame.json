@@ -1,0 +1,33 @@
+{
+  "frame": {
+    "overview": "The Constitution splits governing power between a national government and the states, and it never settled exactly where the line falls. Each generation has redrawn it — through amendments, national crises, Supreme Court decisions, and the money Washington offers states with strings attached. Those choices determine who decides how your schools, roads, health care, and elections work.",
+    "bigideas": [
+      [
+        "Constitutionalism",
+        "The Constitution divides power between national and state governments, and the Supreme Court’s interpretations of that division have shifted the balance over time."
+      ],
+      [
+        "Liberty and Order",
+        "Laws and policies balancing order against liberty are grounded in the Constitution and have been interpreted differently across time — including where national authority ends and state authority begins."
+      ],
+      [
+        "Competing Policy-Making Interests",
+        "Dividing power between levels of government gives stakeholders multiple access points and forces national policymakers to work with — and sometimes around — the states."
+      ]
+    ],
+    "questions": [
+      "How did the founders of the U.S. Constitution attempt to protect individual liberty, while also promoting public order and safety?",
+      "How have theory, debate, and compromise influenced the U.S. constitutional system?",
+      "How does the development and interpretation of the Constitution influence policies that impact citizens and residents of the U.S.?"
+    ],
+    "documents": [
+      "Federalist No. 39",
+      "Constitution of the United States — Necessary and Proper, Commerce, and Supremacy Clauses; Tenth and Fourteenth Amendments"
+    ],
+    "cases": [
+      "McCulloch v. Maryland (1819)",
+      "United States v. Lopez (1995)"
+    ],
+    "docnote": "These are the only cases in this unit you need to know by name. Other cases discussed in class are there for the ideas they illustrate — know the principle, not the name."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "review": [
+    {
+      "g": "1.8",
+      "num": "1.8",
+      "name": "Constitutional Interpretations of Federalism",
+      "lo": "LO 1.8.A — Explain how the balance of power between national and state governments has changed over time based on interpretations of the Supreme Court of the United States.",
+      "core": "Four parts of the Constitution decide most federalism disputes, and every one of them is written broadly enough that the Supreme Court has had to decide how far it reaches. As the Court’s readings have changed, so has the balance between the national government and the states.",
+      "blocks": [
+        [
+          "Four provisions to know",
+          "Necessary and Proper Clause — lets Congress make laws to carry out its enumerated powers; the basis of implied powers. Commerce Clause — lets Congress regulate interstate commerce, meaning commerce “among the several States.” Supremacy Clause — makes the Constitution and valid federal laws supreme over state law. Fourteenth Amendment — its Due Process and Equal Protection Clauses let the national government enforce protections for individuals against the states."
+        ],
+        [
+          "McCulloch v. Maryland (1819) — required",
+          "Facts: Congress chartered a national bank, and Maryland taxed the bank’s Baltimore branch; the branch’s cashier, James McCulloch, refused to pay. Holdings: Congress could create the bank under the Necessary and Proper Clause, even though no bank is mentioned in the Constitution, and Maryland could not tax it because of the Supremacy Clause. Effect: expanded national power through implied powers and national supremacy."
+        ],
+        [
+          "United States v. Lopez (1995) — required",
+          "Facts: A high school student was convicted under the federal Gun-Free School Zones Act for bringing a handgun to school. Holding: Congress exceeded its Commerce Clause power, because carrying a gun near a school is not an <b>economic</b> activity that substantially affects interstate commerce. Effect: the first limit on the commerce power in nearly sixty years, shifting some authority back toward the states."
+        ],
+        [
+          "How the commerce power grew, and where it stopped",
+          "Early on, the Court defined commerce broadly to include navigation and transportation. After the late 1930s it upheld federal rules even on local activity, if that activity added up across the country to a substantial effect on interstate commerce, and it upheld the Civil Rights Act’s ban on discrimination by businesses serving travelers. Lopez drew the line at activity that isn’t <b>economic</b> at all."
+        ]
+      ],
+      "traps": [
+        [
+          "Lopez is not a gun-rights case",
+          "The question was whether Congress had the power to pass the law, not whether the law violated the Second Amendment."
+        ],
+        [
+          "McCulloch has two holdings",
+          "Necessary and Proper: Congress may create the bank. Supremacy: Maryland may not tax it. Naming only one gets you half the point."
+        ],
+        [
+          "Supremacy is not a blank check",
+          "Federal law prevails only when Congress acted within its constitutional powers. If the federal law is invalid — as in Lopez — there is nothing for state law to yield to."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "unit2",
+  "number": 2,
+  "title": "Federalism",
+  "groups": {
+    "1.7": {
+      "name": "Relationship Between the States and National Government",
+      "topic": "1.7"
+    },
+    "fiscal": {
+      "name": "Grants, Mandates, and Conditions of Aid",
+      "topic": "1.7"
+    },
+    "1.8": {
+      "name": "Constitutional Interpretations of Federalism",
+      "topic": "1.8"
+    },
+    "eras": {
+      "name": "How Federalism Has Changed",
+      "topic": "1.8"
+    },
+    "1.9": {
+      "name": "Federalism in Action",
+      "topic": "1.9"
+    }
+  },
+  "files": [
+    "data/unit2/questions/1.7.json",
+    "data/unit2/questions/fiscal.json",
+    "data/unit2/questions/1.8.json",
+    "data/unit2/questions/eras.json",
+    "data/unit2/questions/1.9.json",
+    "data/unit2/drills.json",
+    "data/unit2/review/1.7.json",
+    "data/unit2/review/fiscal.json",
+    "data/unit2/review/1.8.json",
+    "data/unit2/review/eras.json",
+    "data/unit2/review/1.9.json",
+    "data/unit2/reference.json",
+    "data/unit2/glossary.json",
+    "data/unit2/frame.json"
+  ]
+}

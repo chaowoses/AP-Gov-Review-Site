@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "id": 14,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Brutus No. 1 · small republic",
+      "stim": [
+        "“In a republic, the manners, sentiments, and interests of the people should be similar. If this be not the case, there will be a constant clashing of opinions; and the representatives of one part will be continually striving against those of the other.”"
+      ],
+      "cite": "Brutus No. 1 (1787)",
+      "stem": "The reasoning in this passage most directly supports which position?",
+      "opts": [
+        "A republic can preserve liberty only if it governs a relatively small and homogeneous population",
+        "The dangers of faction are best controlled by extending the sphere of the republic",
+        "A bill of rights is unnecessary in a government of enumerated powers",
+        "States should retain exclusive authority to regulate commerce among themselves"
+      ],
+      "ans": 0,
+      "why": [
+        "Brutus treats similarity of interests as a requirement for republican government, and diversity of interests as a recipe for permanent conflict. That argument leads directly to the Anti-Federalist preference for small, decentralized republics.",
+        "Careful here. This is Madison’s argument in Federalist No. 10, written in direct response to writers like Brutus. Madison claimed a large republic controls faction better. If you have read both documents, check which one you are recalling.",
+        "This was a Federalist argument against adding a bill of rights. Anti-Federalists like Brutus demanded one.",
+        "A states’ rights position, but not the argument in this passage, which is about representation and conflicting interests."
+      ],
+      "note": ""
+    },
+    {
+      "id": 15,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Federalist No. 10 · factions",
+      "stim": [
+        "“By a faction, I understand a number of citizens, whether amounting to a majority or a minority of the whole, who are united and actuated by some common impulse of passion, or of interest, adverse to the rights of other citizens, or to the permanent and aggregate interests of the community.”"
+      ],
+      "cite": "Federalist No. 10 (1787)",
+      "stem": "Which conclusion follows most directly from Madison’s definition?",
+      "opts": [
+        "Factions are always small minorities that can be safely outvoted",
+        "A majority can itself be a faction, so majority rule alone does not guarantee that rights are protected",
+        "Factions arise only when government is too weak to enforce its laws",
+        "Eliminating factions should be the primary goal of constitutional design"
+      ],
+      "ans": 1,
+      "why": [
+        "The definition says the opposite. Madison explicitly includes majorities.",
+        "Notice that Madison writes “whether amounting to a majority or a minority.” That phrase is doing the heavy lifting. If a majority can be a faction, then simply letting the majority win is not a safeguard — it can be the danger itself.",
+        "Madison traces faction to human nature and the unequal distribution of property, not to weak enforcement.",
+        "Madison considers removing the causes of faction and rejects it as worse than the disease. His goal is to control the effects of faction, not eliminate it."
+      ],
+      "note": ""
+    },
+    {
+      "id": 16,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Federalist No. 10 · causes vs. effects",
+      "stim": [],
+      "cite": "",
+      "stem": "In Federalist No. 10, Madison rejects removing the causes of faction. What is his reason?",
+      "opts": [
+        "Doing so would require either destroying liberty or forcing everyone to hold the same opinions",
+        "Doing so would require amending the Articles of Confederation, which needed unanimous consent",
+        "Factions had already disappeared in most states by 1787",
+        "The Constitution already prohibited citizens from forming political associations"
+      ],
+      "ans": 0,
+      "why": [
+        "Madison identifies two ways to remove the causes of faction: abolish the liberty that lets factions form, or give every citizen identical interests and opinions. He calls the first a cure worse than the disease and the second impossible. So he turns to controlling the effects instead.",
+        "The unanimity rule was a real weakness of the Articles, but it is not Madison’s reason here. His argument is about liberty and human nature.",
+        "Madison argues the reverse — that faction is sown in human nature and cannot be removed.",
+        "The Constitution contains no such prohibition, and Madison’s point is that liberty necessarily produces factions."
+      ],
+      "note": ""
+    },
+    {
+      "id": 17,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Anti-Federalists · Bill of Rights",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best captures the Anti-Federalist objection that led to the addition of the Bill of Rights?",
+      "opts": [
+        "The proposed government gave too little power to Congress to protect citizens",
+        "Without explicit written protections, a powerful national government could infringe individual liberties",
+        "A bill of rights would concentrate too much authority in the federal courts",
+        "State constitutions had proven unable to protect property rights"
+      ],
+      "ans": 1,
+      "why": [
+        "This reverses the concern. Anti-Federalists thought the national government had too much power, not too little.",
+        "Anti-Federalists feared that a strong, distant national government would erode individual liberty unless specific protections were written down and made binding. Agreeing to add a bill of rights was one of the compromises that made ratification possible.",
+        "This was closer to a Federalist worry about listing rights. Anti-Federalists wanted the protections written down.",
+        "Anti-Federalists generally trusted state governments more than the proposed national one."
+      ],
+      "note": ""
+    },
+    {
+      "id": 18,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Federalist vs. Anti-Federalist",
+      "stim": [],
+      "cite": "",
+      "stem": "Which choice correctly matches each document to the position it argues?",
+      "opts": [
+        "Federalist No. 10 — a large republic better controls the effects of faction; Brutus No. 1 — a small, decentralized republic better protects liberty",
+        "Federalist No. 10 — power should be reserved to the states; Brutus No. 1 — the national government should be strengthened",
+        "Federalist No. 10 — a bill of rights is essential; Brutus No. 1 — a bill of rights is unnecessary",
+        "Federalist No. 10 — direct democracy is preferable to representation; Brutus No. 1 — representation is preferable to direct democracy"
+      ],
+      "ans": 0,
+      "why": [
+        "Madison argues in Federalist No. 10 that a large republic contains many competing interests, making it harder for any one faction to dominate, and that representation refines public views. Brutus argues that a large republic cannot represent a diverse people well and endangers liberty.",
+        "These are reversed. Federalists supported a strong national government; Anti-Federalists wanted power reserved to states.",
+        "Also reversed, and not the subject of either document. Anti-Federalists demanded a bill of rights.",
+        "Madison favors representation, not direct democracy — he argues a pure democracy cannot control faction at all."
+      ],
+      "note": ""
+    },
+    {
+      "id": 19,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Brutus No. 1 · expansion of national power",
+      "stim": [],
+      "cite": "",
+      "stem": "Brutus No. 1 warns about the clause granting Congress power to make all laws “necessary and proper” for carrying out its listed powers, and about the provision making federal law supreme. What is his concern?",
+      "opts": [
+        "That the states would use these clauses to nullify federal law",
+        "That these clauses would let the national government expand its power and absorb the authority of the states",
+        "That these clauses would make the judiciary too weak to check Congress",
+        "That these clauses would prevent Congress from raising an army"
+      ],
+      "ans": 1,
+      "why": [
+        "The clauses run the other direction. The supremacy clause makes federal law override conflicting state law.",
+        "Brutus reads these clauses as open-ended. Because the necessary and proper clause is not clearly bounded and federal law overrides state law, he expects national authority to grow until the states are left with little real power.",
+        "Brutus worried the federal judiciary would become too strong, not too weak.",
+        "Brutus’s objection to standing armies is a separate argument in the essay and is not about these clauses."
+      ],
+      "note": "Preview: you will work with the necessary and proper clause and the supremacy clause in depth during the federalism unit. For now, recognize what Brutus predicted and why."
+    },
+    {
+      "id": 20,
+      "g": "1.3",
+      "topic": "1.3",
+      "concept": "Tyranny of the majority",
+      "stim": [],
+      "cite": "",
+      "stem": "A large majority in a state legislature passes a law restricting the religious practices of a small minority group. In the terms used in Federalist No. 10, this outcome is best described as",
+      "opts": [
+        "a majority faction acting against the rights of other citizens",
+        "a pluralist compromise among competing interests",
+        "an example of elite democracy overriding popular will",
+        "the operation of checks and balances within a single branch"
+      ],
+      "ans": 0,
+      "why": [
+        "Madison defines a faction as a group united by a common interest or passion adverse to the rights of other citizens — and he specifically allows that the group may be a majority. A majority using its numbers to strip a minority of rights is exactly the danger he names.",
+        "A pluralist compromise means competing groups each get something. Here the minority gets nothing and loses rights.",
+        "Elite democracy involves a small, powerful group making decisions. This is a large majority acting.",
+        "Checks and balances operate between branches, not inside one legislature."
+      ],
+      "note": ""
+    }
+  ]
+}

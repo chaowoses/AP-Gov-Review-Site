@@ -1,0 +1,34 @@
+{
+  "review": [
+    {
+      "num": "1.1",
+      "name": "Ideals of Democracy",
+      "lo": "LO 1.1.A — Explain how democratic ideals are reflected in the Declaration of Independence, the U.S. Constitution, and the Gettysburg Address.",
+      "core": "American government rests on a set of ideas the founders inherited and adapted. Those ideas appear in the founding documents, and one later document — the Gettysburg Address — reaffirms them at a moment when the country nearly came apart.",
+      "blocks": [
+        [
+          "Four democratic ideals",
+          "Natural rights (some rights cannot be taken away) · Social contract (people trade some freedom for order) · Popular sovereignty (governing power comes from the consent of the people) · Limited government (no government’s power is absolute)"
+        ],
+        [
+          "Four principles that secure limited government",
+          "Separation of powers · Checks and balances · Federalism · Republicanism"
+        ],
+        [
+          "Three documents, three jobs",
+          "The Declaration of Independence — Jefferson, with Adams and Franklin — restates natural rights philosophy and grounds popular sovereignty. The Constitution — drafted by Madison at the Philadelphia convention Washington presided over, with Hamilton and the Grand Committee contributing — is itself a social contract and builds a system of limited government. The Gettysburg Address — Lincoln, during the Civil War — reaffirms equality and popular sovereignty as defining foundations of democracy."
+        ]
+      ],
+      "traps": [
+        [
+          "Ideals versus principles",
+          "Natural rights is an ideal. Separation of powers is a principle that protects one. Questions punish the mix-up."
+        ],
+        [
+          "Naming instead of explaining",
+          "“This shows popular sovereignty” earns nothing. You need the mechanism: because the power being exercised traces back to the consent of the governed."
+        ]
+      ]
+    }
+  ]
+}

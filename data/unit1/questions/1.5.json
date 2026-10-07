@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "id": 27,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Article V · amendment process",
+      "stim": [],
+      "cite": "",
+      "stem": "A proposed constitutional amendment is approved by more than two-thirds of the House of Representatives and more than two-thirds of the Senate. What must happen next for the amendment to become part of the Constitution?",
+      "opts": [
+        "The president must sign it",
+        "Three-fourths of the states must ratify it",
+        "Two-thirds of state legislatures must call a convention to propose it",
+        "It takes effect immediately, having cleared both required thresholds"
+      ],
+      "ans": 1,
+      "why": [
+        "The president has no formal role in amending the Constitution. Article V leaves the executive out entirely. This is one of the most common wrong answers on amendment questions.",
+        "Both chambers have met the two-thirds threshold Article V requires to propose an amendment. Proposing is not ratifying — three-fourths of the states still have to approve it.",
+        "This mixes up the two routes for proposing an amendment. Congress can propose by a two-thirds vote of both houses, or two-thirds of state legislatures can call a convention. These are alternatives, not steps in sequence — and here the congressional route has already been used.",
+        "Clearing both chambers is only half the process. Article V has two stages: proposal, then ratification."
+      ],
+      "note": ""
+    },
+    {
+      "id": 28,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Great Compromise",
+      "stim": [],
+      "cite": "",
+      "stem": "At the Constitutional Convention, one plan proposed representation in both houses of the legislature based on state population; a rival plan proposed a single house with equal representation for every state. The Great Compromise resolved this dispute by",
+      "opts": [
+        "creating a bicameral legislature with the House based on population and the Senate giving each state equal representation",
+        "creating a unicameral legislature in which each state received votes proportional to its tax payments",
+        "allowing each state to choose annually whether to be represented by population or equally",
+        "abolishing state representation and seating delegates chosen by regional conventions"
+      ],
+      "ans": 0,
+      "why": [
+        "The Virginia Plan favored large states through population-based representation; the New Jersey Plan favored small states through equal representation. The Great Compromise, also called the Connecticut Compromise, gave each side one chamber.",
+        "No plan tied representation to tax payments in this way, and the legislature created was bicameral, not unicameral.",
+        "Representation was fixed by the Constitution, not chosen year to year.",
+        "States remained the units of representation in both chambers."
+      ],
+      "note": ""
+    },
+    {
+      "id": 29,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Three-Fifths Compromise",
+      "stim": [],
+      "cite": "",
+      "stem": "The Three-Fifths Compromise established that",
+      "opts": [
+        "three-fifths of the states had to approve a treaty before it took effect",
+        "three-fifths of a state’s enslaved population would be counted for purposes of representation in the House and for taxation",
+        "enslaved persons could vote in three-fifths of the states",
+        "three-fifths of the Senate was required to end debate on a bill"
+      ],
+      "ans": 1,
+      "why": [
+        "Treaty ratification requires two-thirds of the Senate, not three-fifths of the states.",
+        "The compromise set a formula for counting a state’s enslaved population when apportioning seats in the House of Representatives and when levying direct taxes.",
+        "Enslaved persons were denied the vote. The compromise concerned how they would be counted for representation, not whether they could participate.",
+        "Three-fifths is the cloture threshold in the modern Senate, but that is a Senate rule adopted much later and has nothing to do with this compromise. Watch for the same fraction being used in unrelated places."
+      ],
+      "note": ""
+    },
+    {
+      "id": 30,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Electoral College as compromise",
+      "stim": [],
+      "cite": "",
+      "stem": "Delegates at the Constitutional Convention disagreed about whether the president should be chosen by Congress or by a direct vote of the people. The compromise they reached",
+      "opts": [
+        "gave the choice to the Supreme Court in the event of a dispute",
+        "created a system in which electors chosen by each state select the president",
+        "required the president to be approved by a majority of state legislatures",
+        "allowed each state to choose its own method of selecting a national president"
+      ],
+      "ans": 1,
+      "why": [
+        "The Court has no role in selecting the president under the original design.",
+        "The Electoral College was a compromise between congressional selection and direct popular election. Each state selects electors, and those electors choose the president.",
+        "State legislatures do not approve the president. They do control how their state’s electors are chosen.",
+        "States choose how to select their electors, but the president is elected through one national process, not fifty separate ones."
+      ],
+      "note": ""
+    },
+    {
+      "id": 31,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Slave trade compromise",
+      "stim": [],
+      "cite": "",
+      "stem": "One compromise reached at the Constitutional Convention concerning the importation of enslaved persons provided that",
+      "opts": [
+        "the practice would be abolished immediately upon ratification",
+        "a decision on whether to ban importation would be postponed until 1808",
+        "only states north of a fixed line could prohibit the practice",
+        "the question would be decided by the Supreme Court"
+      ],
+      "ans": 1,
+      "why": [
+        "The Constitution did not abolish the practice, and the compromise was specifically about delay.",
+        "Delegates postponed the question rather than resolve it, barring any prohibition on importation before 1808. It is one of the clearest examples of a compromise that left a matter unsettled.",
+        "No geographic line of this kind appears in the Constitution.",
+        "The Court had no role in this question."
+      ],
+      "note": ""
+    },
+    {
+      "id": 32,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Bill of Rights as compromise",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best explains why the promise of a bill of rights is treated as one of the compromises necessary for ratification?",
+      "opts": [
+        "It persuaded Anti-Federalists to support ratification by guaranteeing explicit protections for individual liberties",
+        "It resolved the dispute between large and small states over representation",
+        "It gave the national government power to regulate interstate commerce",
+        "It established the process by which the Constitution could later be amended"
+      ],
+      "ans": 0,
+      "why": [
+        "Anti-Federalists objected that the Constitution lacked written protections against a powerful national government. Federalists agreed to add a bill of rights, and that agreement helped secure ratification in several key states.",
+        "That was the Great Compromise.",
+        "The commerce power was granted in the original text and was not a ratification compromise in this sense.",
+        "The amendment process is in Article V of the original Constitution, separate from the promise of a bill of rights."
+      ],
+      "note": ""
+    },
+    {
+      "id": 33,
+      "g": "1.5",
+      "topic": "1.5",
+      "concept": "Unresolved constitutional debates",
+      "stim": [],
+      "cite": "",
+      "stem": "Present-day disputes over federal surveillance programs adopted in response to the September 11 attacks, and over the role of government in public school education, are best understood as continuations of which founding-era tension?",
+      "opts": [
+        "The debate over the proper balance among national power, state power, and individual rights",
+        "The debate over whether the president should be chosen by Congress or by the people",
+        "The debate over whether the Articles of Confederation should be amended or replaced",
+        "The debate over the number of representatives each state should receive"
+      ],
+      "ans": 0,
+      "why": [
+        "The compromises that secured ratification left some matters unresolved. The question of how much power the national government should hold, how much the states retain, and where individual rights limit both remains at the center of constitutional argument today.",
+        "That question was settled by the Electoral College compromise and is not what these modern debates are about.",
+        "That question was settled in 1787.",
+        "Representation was settled by the Great Compromise."
+      ],
+      "note": ""
+    }
+  ]
+}

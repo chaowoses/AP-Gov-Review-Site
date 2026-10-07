@@ -1,0 +1,29 @@
+/* Review view: notes, reference tables, glossary */
+.trap{margin:0 0 .75rem}
+.trap b{font-style:italic}
+.scroller{overflow-x:auto; -webkit-overflow-scrolling:touch; margin:0; background:var(--card); border:1px solid var(--rule); border-radius:var(--r)}
+table{border-collapse:collapse; width:100%; min-width:min(27.5rem,100%); font-size:.95rem}
+th,td{text-align:left; vertical-align:top; padding:.75rem 1rem; border-bottom:1px solid var(--rule-soft); overflow-wrap:anywhere}
+tr:last-child td{border-bottom:0}
+th{font-family:var(--ui); font-size:.8rem; font-weight:700; color:var(--ink-soft); background:var(--paper); border-bottom:1px solid var(--rule)}
+td:first-child{font-weight:600}
+.tnote{font-size:.9rem; color:var(--ink-soft); margin:.75rem 0 0}
+.branch{margin:0 0 .75rem; padding:1rem 1.125rem; background:var(--card); border:1px solid var(--rule); border-radius:var(--r)}
+.branch h4{font-family:var(--display); font-size:1.1rem; margin:0 0 .5rem; color:var(--accent)}
+.branch dl{margin:0}
+.branch dt{font-family:var(--ui); font-size:.8rem; font-weight:700; color:var(--ink-soft); margin-top:.6rem}
+.branch dd{margin:.1rem 0 0; font-size:.95rem}
+.search{width:100%; max-width:var(--measure); min-height:var(--tap); padding:.6rem 1rem; border:1px solid var(--rule); border-radius:var(--r);
+  background:var(--card); color:var(--ink); font-family:var(--ui); font-size:1rem; margin:0 0 1rem}
+#glist{display:grid; grid-template-columns:repeat(auto-fill,minmax(min(100%,24rem),1fr)); column-gap:clamp(1.5rem,4vw,3rem)}
+.gterm{padding:.875rem 0; border-top:1px solid var(--rule-soft)}
+.gterm b{display:block; font-family:var(--ui); font-size:1rem}
+.gterm span{font-size:.95rem; color:var(--ink-soft)}
+.empty{padding:1.5rem 0; color:var(--ink-soft)}
+details.about{margin:0 0 1.5rem; padding:.25rem 1.125rem; background:var(--card); border:1px solid var(--rule); border-radius:var(--r)}
+details.about summary{display:flex; align-items:center; min-height:var(--tap); font-family:var(--ui); font-size:.95rem; font-weight:600; color:var(--accent); cursor:pointer}
+details.about[open] summary{margin-bottom:.25rem}
+details.about h4{font-family:var(--ui); font-size:.8rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-soft); margin:1rem 0 .4rem}
+details.about ul{margin:0 0 .5rem; padding-left:1.25rem; font-size:.95rem}
+details.about li{margin:0 0 .4rem}
+details.about .hint{margin:.75rem 0 .5rem}

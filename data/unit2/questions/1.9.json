@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "id": 249,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "Multiple access points",
+      "stim": [],
+      "cite": "",
+      "stem": "After failing to persuade Congress, an advocacy group gathers signatures to put its proposal on the ballot in several states, and voters approve it in some of them. This strategy is possible most directly because",
+      "opts": [
+        "the Supremacy Clause makes state ballot measures binding on Congress",
+        "the Necessary and Proper Clause allows citizens to propose federal laws",
+        "the Tenth Amendment requires Congress to adopt any policy that voters in a majority of states have approved",
+        "dividing power between national and state governments creates multiple access points"
+      ],
+      "ans": 3,
+      "why": [
+        "The Supremacy Clause works the other way — valid federal law prevails over state law.",
+        "That clause is a grant of power to Congress. It gives citizens no lawmaking role.",
+        "The Tenth Amendment reserves powers to states. It doesn’t obligate Congress to follow them.",
+        "Right. When one level is closed to a group, another may be open. Federalism gives stakeholders more than one place to press their case."
+      ],
+      "note": ""
+    },
+    {
+      "id": 250,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "Constraints on national policymaking",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress expanded a health insurance program that states help fund and administer. The Supreme Court later ruled that each state could choose whether to join the expansion, and some states declined for years. This illustrates that",
+      "opts": [
+        "national laws take effect uniformly across all fifty states once the Court upholds them",
+        "national policymaking is constrained because states share responsibility for carrying out policy",
+        "states have no meaningful role in national health policy once Congress has acted",
+        "Congress may require states to join any program it creates, as long as it pays for it"
+      ],
+      "ans": 1,
+      "why": [
+        "The scenario shows the opposite: states that declined the expansion didn’t have it.",
+        "Right. When a national policy depends on states to fund and run it, states can slow or limit it. The result is a policy that varies from state to state.",
+        "States help fund and administer the program. Their choices shaped how far the policy reached.",
+        "The Court said states could decline. Even when Congress pays, it can’t force states into a program through overwhelming financial pressure."
+      ],
+      "note": ""
+    },
+    {
+      "id": 251,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "Interest groups and access points",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best describes how federalism affects interest groups?",
+      "opts": [
+        "Groups may lobby only Congress, because only national law binds every citizen.",
+        "Federalism prevents interest groups from influencing state governments directly.",
+        "Groups can pursue goals at whichever level of government is most receptive.",
+        "Groups must win at every level of government before any policy can change."
+      ],
+      "ans": 2,
+      "why": [
+        "State and local laws bind people too, and groups lobby at every level.",
+        "Federalism multiplies the governments groups can influence.",
+        "Right. An interest group blocked in Congress may succeed in a statehouse, and a group blocked in one state may try another or go to Washington. More levels mean more access points.",
+        "A group can win at one level without the others. That is part of what makes the access points valuable."
+      ],
+      "note": ""
+    },
+    {
+      "id": 252,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "States carrying out national policy",
+      "stim": [],
+      "cite": "",
+      "stem": "States register voters, run polling places, and count ballots — even for federal elections — within rules set by the Constitution and federal law. This arrangement best illustrates that",
+      "opts": [
+        "running elections is an exclusive power of the national government, delegated by Congress to the states",
+        "states may ignore federal election laws within their borders as long as they run fair elections",
+        "the national government depends on states to carry out key functions, so state choices shape national outcomes",
+        "local governments, not states, hold the constitutional authority to administer elections"
+      ],
+      "ans": 2,
+      "why": [
+        "States run elections. The national government sets some rules, but it doesn’t administer elections itself.",
+        "Valid federal law still prevails under the Supremacy Clause. States work within it.",
+        "Right. Congress and the Constitution set the outer rules, but states run the machinery. That shared responsibility constrains and shapes national outcomes.",
+        "The Constitution assigns election administration to the states. Local officials act under state law."
+      ],
+      "note": ""
+    },
+    {
+      "id": 253,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "Evidence for policy innovation",
+      "stim": [],
+      "cite": "",
+      "stem": "Which evidence would best support a claim that federalism encourages policy innovation?",
+      "opts": [
+        "The Constitution prohibits states from coining money or entering into treaties with foreign nations.",
+        "Massachusetts adopted a health insurance law in 2006 that served as a model for a national law in 2010.",
+        "Since 1913, senators have been elected directly by the voters of each state instead of legislatures.",
+        "The national government and the states both collect taxes, often from the same individuals."
+      ],
+      "ans": 1,
+      "why": [
+        "Accurate, but it shows a limit on states, not innovation by them.",
+        "Right. This is specific, and it shows the full mechanism: a state experiments, and its policy spreads to the national level. That is what a laboratory of democracy does.",
+        "Accurate, but it has nothing to do with states trying new policies.",
+        "Accurate — taxing is concurrent — but it doesn’t show any new policy being tried."
+      ],
+      "note": ""
+    },
+    {
+      "id": 254,
+      "g": "1.9",
+      "topic": "1.9",
+      "concept": "State policy that conflicts with federal law",
+      "stim": [],
+      "cite": "",
+      "stem": "Several states have legalized recreational marijuana under their own laws, even though federal law still restricts it. Which statement best explains how this situation exists?",
+      "opts": [
+        "State legalization cancels the federal law inside that state’s borders for as long as the state law remains in effect.",
+        "Congress passed a law giving each state permission to override federal drug laws within its own borders if voters approve.",
+        "The Tenth Amendment prohibits the national government from regulating drugs, which are a state concern.",
+        "States control their own criminal laws and need not enforce federal law, but federal law still applies and can be enforced."
+      ],
+      "ans": 3,
+      "why": [
+        "The Supremacy Clause runs the other way. Valid federal law isn’t cancelled by a conflicting state law.",
+        "Congress hasn’t authorized states to override it. The federal law remains on the books.",
+        "The Court has upheld federal drug laws under the Commerce Clause. The Tenth Amendment doesn’t prevent that.",
+        "Right. A state can repeal its own penalties — that is a reserved power — and the national government can’t order state officers to enforce federal law for it. But federal law still applies within those states."
+      ],
+      "note": "This is federalism in action: different levels taking different positions, with citizens and businesses caught between them. It is also an area where federal policy has been changing, so check current news before writing about specifics."
+    }
+  ]
+}

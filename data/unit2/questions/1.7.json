@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "id": 201,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalist No. 39 · a composition of both",
+      "stim": [
+        "“The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both.”",
+        "“…its jurisdiction extends to certain enumerated objects only, and leaves to the several States a residuary and inviolable sovereignty over all other objects.”"
+      ],
+      "cite": "James Madison, Federalist No. 39 (1788)",
+      "stem": "Madison’s argument in these passages most directly supports which claim?",
+      "opts": [
+        "The Constitution keeps the states sovereign and makes the national government their agent, as the Articles did.",
+        "The Constitution divides governing authority so that neither the national government nor the states hold all of it.",
+        "The national government may act on any subject Congress considers necessary for the general welfare.",
+        "State governments serve as administrative units that carry out policies set by the national government."
+      ],
+      "ans": 1,
+      "why": [
+        "Careful here. That describes a confederation — the system the Constitution replaced. Madison is arguing the new government is partly national, not a league of sovereign states.",
+        "Right. Madison calls the Constitution “a composition of both”: the national government governs only “certain enumerated objects,” and the states keep authority over everything else. Power is divided, not handed to one level.",
+        "This is the opposite of the passage. “Enumerated objects only” means the national government’s reach is limited to the subjects listed in the Constitution.",
+        "That describes a unitary system. Madison says the states keep a “residuary and inviolable sovereignty,” which a unitary system does not allow."
+      ],
+      "note": "Madison uses “federal” the old way, to mean a league of independent states — what this unit calls a confederation. He uses “national” for a government that acts directly on individuals. Today “the federal government” just means the national government. Don’t let the older vocabulary trip you."
+    },
+    {
+      "id": 202,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalist No. 39 · operation on individuals",
+      "stim": [
+        "“The difference between a federal and national government, as it relates to the operation of the government, is supposed to consist in this, that in the former the powers operate on the political bodies composing the Confederacy, in their political capacities; in the latter, on the individual citizens composing the nation, in their individual capacities.”"
+      ],
+      "cite": "James Madison, Federalist No. 39 (1788)",
+      "stem": "Under the Constitution, Congress can tax individual citizens directly instead of requesting money from state governments. By Madison’s definition in this passage, that feature is",
+      "opts": [
+        "national, because the power operates directly on individual citizens",
+        "federal, because Congress is part of what we now call the federal government",
+        "federal, because states also have the power to tax",
+        "national, because both houses of Congress are apportioned by population"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Madison’s test is whom the power acts on. A tax collected from individuals operates on “individual citizens… in their individual capacities,” which he calls national.",
+        "This is the vocabulary trap. In Madison’s usage, “federal” means power acting on states as political bodies — the way the Articles of Confederation requested money from the states.",
+        "States do share the taxing power — it is concurrent. But that doesn’t answer Madison’s question, which is whether this power acts on states or on individuals.",
+        "Only the House is apportioned by population. Every state has two senators. The conclusion is right but the reason is wrong."
+      ],
+      "note": ""
+    },
+    {
+      "id": 203,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalist No. 39 · sources of power",
+      "stim": [
+        "“The House of Representatives will derive its powers from the people of America… The Senate, on the other hand, will derive its powers from the States, as political and coequal societies…”"
+      ],
+      "cite": "James Madison, Federalist No. 39 (1788)",
+      "stem": "Which conclusion follows most directly from Madison’s description of the two chambers of Congress?",
+      "opts": [
+        "The House represents the states, while the Senate represents the people directly.",
+        "The sources of Congress’s power are partly national and partly federal.",
+        "The Senate is more democratic than the House because every state is treated equally.",
+        "Congress’s powers are unlimited because they come ultimately from the people."
+      ],
+      "ans": 1,
+      "why": [
+        "Reversed. The House is the people’s chamber; the Senate is where the states are represented as equals.",
+        "Right. The House draws its authority from the people (national); the Senate draws its authority from the states as equals (federal). Madison concludes the Constitution is partly each in the sources of its power.",
+        "Equal representation of states is not the same as being more democratic. Madison isn’t ranking the chambers; he is identifying where each draws its power.",
+        "Nothing in the passage says this, and the rest of Federalist No. 39 says the opposite — national authority extends only to enumerated objects."
+      ],
+      "note": "The Seventeenth Amendment (1913) moved the election of senators from state legislatures to the voters of each state. The Senate still represents states equally — two senators each — but state governments no longer choose them."
+    },
+    {
+      "id": 204,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalist No. 39 · purposes of divided authority",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best describes what Federalist No. 39 says about combining national and state features in the Constitution?",
+      "opts": [
+        "It lets a large republic control the effects of faction by multiplying the number of competing interests.",
+        "It guarantees uniform national policy by limiting the states’ ability to set their own laws on most subjects.",
+        "It limits the concentration of power in any one part of government and creates multiple access points for participation.",
+        "It gives the judiciary final authority to settle disputes between the states and the national government."
+      ],
+      "ans": 2,
+      "why": [
+        "That is Madison’s argument in Federalist No. 10. Related ideas, different document — No. 10 is about factions; No. 39 is about how the Constitution mixes national and state features.",
+        "Federalism does the reverse. States keep authority over many subjects, so policy often differs from state to state.",
+        "Right. Dividing authority between two levels means no single government holds all power, and it gives people more than one place to take part and press their interests.",
+        "Judicial independence and judicial review are associated with Federalist No. 78 and Marbury v. Madison, not with Federalist No. 39."
+      ],
+      "note": ""
+    },
+    {
+      "id": 205,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Unitary, confederal, federal",
+      "stim": [],
+      "cite": "",
+      "stem": "In a certain country, the central government may create, abolish, or redraw regional governments at will, and regional officials exercise only the authority the central government gives them. This country has",
+      "opts": [
+        "a confederation",
+        "a unitary system",
+        "a federal system",
+        "a system of separated powers"
+      ],
+      "ans": 1,
+      "why": [
+        "Reversed. In a confederation the member states hold the real power and the central government depends on them — the arrangement under the Articles of Confederation.",
+        "Right. In a unitary system all authority rests with the central government, and any regional or local government exists only because the center created it.",
+        "In a federal system both levels have constitutional authority that the other cannot simply take away. Here the regions have no protected authority of their own.",
+        "Separation of powers divides authority among branches — legislative, executive, judicial — not among levels of government. The scenario is about levels."
+      ],
+      "note": ""
+    },
+    {
+      "id": 206,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Local governments in a federal system",
+      "stim": [],
+      "cite": "",
+      "stem": "A state legislature passes a law overriding a city ordinance and removing the city’s authority over that subject. Which statement best explains why the state may do this?",
+      "opts": [
+        "The Supremacy Clause makes state laws supreme over any conflicting city ordinances.",
+        "Local governments are created by their states and hold only the powers their states give them.",
+        "The Tenth Amendment reserves powers to the states, and through them to their cities.",
+        "The Full Faith and Credit Clause requires cities to honor the laws of their own state."
+      ],
+      "ans": 1,
+      "why": [
+        "The Supremacy Clause makes the Constitution and federal law supreme over state law. It says nothing about states and cities.",
+        "Right. The Constitution divides power between the nation and the states. Cities and counties are creations of the states, so a state’s relationship with its cities works much like a unitary system.",
+        "The Tenth Amendment reserves powers “to the States respectively, or to the people.” Cities aren’t mentioned.",
+        "Full faith and credit is about states honoring one another’s public acts and court judgments. It doesn’t govern states and their cities."
+      ],
+      "note": ""
+    },
+    {
+      "id": 207,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Concurrent powers",
+      "stim": [],
+      "cite": "",
+      "stem": "A Virginia resident pays income tax to the national government and also pays income tax to the state of Virginia. This illustrates",
+      "opts": [
+        "a concurrent power",
+        "an implied power",
+        "a reserved power",
+        "preemption"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Concurrent powers belong to both levels of government at once. Collecting taxes is the standard example; borrowing money, making and enforcing laws, and building roads are others.",
+        "Implied powers are national powers inferred from the Necessary and Proper Clause. Here both levels are acting, and taxing is written into the Constitution.",
+        "Reserved powers belong to the states alone. The national government is taxing too, so the power is shared.",
+        "Preemption happens when federal law displaces state law. Here both taxes stand side by side, and neither displaces the other."
+      ],
+      "note": ""
+    },
+    {
+      "id": 208,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Reserved powers",
+      "stim": [],
+      "cite": "",
+      "stem": "States set the requirements for obtaining a license to practice law, work as an electrician, or teach in public schools. This authority comes most directly from",
+      "opts": [
+        "the Tenth Amendment, which reserves to the states powers not delegated to the national government",
+        "the Necessary and Proper Clause, which lets governments make the laws needed to carry out their duties",
+        "the Commerce Clause, which allows the regulation of business activity",
+        "the Full Faith and Credit Clause, which governs licenses and records"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Licensing professions isn’t delegated to the national government, so it stays with the states. Regulating occupations is a classic reserved power.",
+        "The Necessary and Proper Clause is a grant of power to Congress, not to the states. It is the basis of national implied powers.",
+        "The Commerce Clause gives Congress power over interstate commerce. It is a national power, so it cannot be the source of a state’s authority.",
+        "Full faith and credit requires states to honor each other’s public acts, records, and court judgments. It does not give a state the power to license anyone in the first place."
+      ],
+      "note": ""
+    },
+    {
+      "id": 209,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Enumerated vs. implied powers",
+      "stim": [],
+      "cite": "",
+      "stem": "Which pairing correctly classifies each national power?",
+      "opts": [
+        "Declaring war — implied; creating a national bank — enumerated",
+        "Declaring war — concurrent; creating a national bank — reserved",
+        "Declaring war — reserved; creating a national bank — concurrent",
+        "Declaring war — enumerated; creating a national bank — implied"
+      ],
+      "ans": 3,
+      "why": [
+        "Reversed. Declaring war is listed in Article I, Section 8. The word “bank” appears nowhere in the Constitution.",
+        "States cannot declare war, so that power isn’t shared. And a national bank can’t be a reserved power, since reserved powers belong to the states.",
+        "Declaring war belongs only to Congress. A reserved power is one kept by the states.",
+        "Right. The power to declare war is written in Article I. A national bank isn’t mentioned anywhere; it was upheld as a means of carrying out written powers such as taxing and borrowing."
+      ],
+      "note": "Both enumerated and implied powers are exclusive national powers. The difference is only whether the power is written down or inferred from the Necessary and Proper Clause."
+    },
+    {
+      "id": 210,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Powers denied to the states",
+      "stim": [],
+      "cite": "",
+      "stem": "Which action does the Constitution prohibit state governments from taking?",
+      "opts": [
+        "Entering into a treaty with a foreign nation",
+        "Borrowing money",
+        "Establishing a system of courts",
+        "Setting the rules for marriage, divorce, and adoption within the state"
+      ],
+      "ans": 0,
+      "why": [
+        "Right. Article I, Section 10 bars states from entering treaties. The nation speaks with one voice in foreign affairs — one of the problems the Articles of Confederation failed to solve.",
+        "Borrowing is a concurrent power. States and the national government both borrow.",
+        "Every state has its own court system. Creating courts is a concurrent power.",
+        "Marriage and divorce law is a reserved power. It is set mainly by the states, within the limits of the Constitution."
+      ],
+      "note": ""
+    },
+    {
+      "id": 211,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Laboratories of democracy",
+      "stim": [],
+      "cite": "",
+      "stem": "Several states try different approaches to the same policy problem. Other states copy the approaches that work, and Congress later models a national law on one of them. This best illustrates which argument for federalism?",
+      "opts": [
+        "Federalism makes it easier for voters to hold officials accountable.",
+        "Federalism allows the national government to respond quickly to national problems.",
+        "Federalism ensures that every state adopts the same policy at the same time.",
+        "States can act as laboratories of democracy."
+      ],
+      "ans": 3,
+      "why": [
+        "This is usually listed as a drawback. With several levels sharing responsibility, it can be harder to know whom to credit or blame.",
+        "Federalism tends to slow national responses, because action has to be coordinated across fifty states.",
+        "The scenario shows the opposite: states adopt different policies on their own schedules.",
+        "Right. States test policies on a smaller scale. Failures stay contained, and successes can spread to other states or to the national level."
+      ],
+      "note": ""
+    },
+    {
+      "id": 212,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalism and accountability",
+      "stim": [],
+      "cite": "",
+      "stem": "After a hurricane, the evacuation of a major city is delayed. Federal, state, and local officials each say another level of government was responsible, and voters struggle to tell who should be blamed. This illustrates which criticism of federalism?",
+      "opts": [
+        "Federalism concentrates too much power in the national government at the expense of states.",
+        "Federalism reduces the number of access points available to citizens and groups.",
+        "Federalism requires every state to follow the same national disaster plan.",
+        "Dividing authority among levels makes it harder to hold officials accountable."
+      ],
+      "ans": 3,
+      "why": [
+        "The scenario shows power spread across levels, not concentrated in one.",
+        "Federalism multiplies access points. The problem here is accountability, not access.",
+        "States make their own emergency plans. Identical policy is not a feature of federalism.",
+        "Right. When responsibility is shared, each level can point to another. Voters can’t easily reward or punish the officials who actually made the decisions."
+      ],
+      "note": ""
+    },
+    {
+      "id": 213,
+      "g": "1.7",
+      "topic": "1.7",
+      "concept": "Federalism and unequal outcomes",
+      "stim": [],
+      "cite": "",
+      "stem": "Which evidence would best support a claim that federalism can lead to unequal treatment of citizens?",
+      "opts": [
+        "Both the national government and the states have the power to collect taxes from the same individuals.",
+        "The Constitution prohibits states from coining money, so every state uses the same national currency.",
+        "State-run programs set different benefit levels, so similar people get different help depending on where they live.",
+        "The Supremacy Clause makes federal law the supreme law of the land when federal and state laws conflict."
+      ],
+      "ans": 2,
+      "why": [
+        "This is accurate, but it describes concurrent powers. It doesn’t show anyone being treated differently.",
+        "This shows uniformity in one area, which cuts against the claim rather than supporting it.",
+        "Right. This directly connects federalism — states setting their own rules — to unequal results for similar people. That link is what makes evidence support a claim.",
+        "Accurate, but it points toward uniform national rules. It isn’t evidence of unequal treatment."
+      ],
+      "note": ""
+    }
+  ]
+}

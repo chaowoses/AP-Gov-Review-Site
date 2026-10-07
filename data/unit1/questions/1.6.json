@@ -1,0 +1,167 @@
+{
+  "questions": [
+    {
+      "id": 34,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Separation of powers vs. checks and balances",
+      "stim": [],
+      "cite": "",
+      "stem": "Which pairing correctly distinguishes separation of powers from checks and balances?",
+      "opts": [
+        "Separation of powers divides government into branches with distinct functions; checks and balances gives each branch ways to restrain the others",
+        "Separation of powers divides authority between national and state governments; checks and balances divides it among the branches",
+        "Separation of powers allows the Senate to reject nominees; checks and balances creates the federal judiciary",
+        "Separation of powers applies only to the national government; checks and balances applies only to the states"
+      ],
+      "ans": 0,
+      "why": [
+        "Separation of powers is the structural design — three branches, three jobs. Checks and balances is what lets one branch act on another, so that no branch can operate unchecked.",
+        "The first half describes federalism, not separation of powers.",
+        "This reverses the two. Creating the judiciary is separation of powers; rejecting a nominee is a check.",
+        "Both principles operate at the national level, and state governments generally use similar structures."
+      ],
+      "note": ""
+    },
+    {
+      "id": 35,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Federalist No. 51",
+      "stim": [
+        "“Ambition must be made to counteract ambition. The interest of the man must be connected with the constitutional rights of the place.”"
+      ],
+      "cite": "Federalist No. 51 (1788)",
+      "stem": "Which statement best explains the constitutional design Madison is defending?",
+      "opts": [
+        "Officeholders should be selected for their personal virtue so that ambition does not arise",
+        "Each branch should be given the motives and means to resist encroachment by the others, so that self-interest itself protects the structure",
+        "Congress should be given supremacy over the other branches to prevent deadlock",
+        "Political parties should be organized to channel ambition toward the public good"
+      ],
+      "ans": 1,
+      "why": [
+        "Madison’s design is built for officeholders who are not angels. He treats ambition as a given, not a flaw to screen out.",
+        "Madison does not try to eliminate ambition. He assumes it and designs around it, giving each branch both the incentive and the tools to push back when another branch reaches too far. Federalist No. 51 explains how separation of powers and checks and balances restrain abuses of power.",
+        "The reverse. Madison warns that the legislative branch tends to dominate and argues it must be checked.",
+        "Parties are not part of Madison’s argument here, and the framers were generally hostile to them."
+      ],
+      "note": ""
+    },
+    {
+      "id": 36,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Impeachment and removal",
+      "stim": [],
+      "cite": "",
+      "stem": "Which choice correctly describes the roles of the two chambers in the impeachment process?",
+      "opts": [
+        "The House formally charges an official with abuse of power or misconduct; the Senate holds a trial and may convict and remove",
+        "The Senate formally charges the official; the House holds the trial",
+        "Both chambers must vote to charge, and the Supreme Court conducts the trial",
+        "The House charges the official, and the president decides whether removal is warranted"
+      ],
+      "ans": 0,
+      "why": [
+        "Impeachment and removal are two separate steps in two separate chambers. The House impeaches — that is, brings the charges. The Senate tries the case and decides whether to convict and remove.",
+        "The chambers are reversed.",
+        "The Supreme Court does not conduct impeachment trials. The Chief Justice presides when a president is tried, but the Senate is the body that decides.",
+        "The president has no role in the impeachment or removal of other officials."
+      ],
+      "note": "Impeachment is not removal. An official who is impeached by the House but acquitted by the Senate stays in office. The language matters on free-response questions."
+    },
+    {
+      "id": 37,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Multiple access points",
+      "stim": [],
+      "cite": "",
+      "stem": "An interest group that fails to stop a bill in Congress then lobbies the agency writing the implementing regulations, and later files suit challenging the regulation in federal court. This sequence best illustrates which effect of separation of powers and checks and balances?",
+      "opts": [
+        "It guarantees that policy outcomes reflect majority preferences",
+        "It creates multiple access points through which stakeholders can influence policy",
+        "It eliminates the influence of organized interests on policymaking",
+        "It concentrates policymaking authority in the executive branch"
+      ],
+      "ans": 1,
+      "why": [
+        "Multiple access points can actually work against majority preferences, since a well-organized minority can block or reshape policy a majority favors.",
+        "Because authority is spread across branches and institutions, a group defeated in one arena can try another. Separation of powers and checks and balances create multiple points of access for stakeholders seeking to shape policy.",
+        "The opposite — the structure gives organized interests more opportunities, not fewer.",
+        "The group moves among all three branches. No single branch controls the outcome."
+      ],
+      "note": ""
+    },
+    {
+      "id": 38,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Veto and override",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress passes a bill. The president vetoes it. Congress then passes the same bill again, this time by a two-thirds vote in both chambers, and it becomes law. This sequence best illustrates",
+      "opts": [
+        "federalism, because state and national interests are both represented",
+        "checks and balances, because each branch exercises a power that restrains the other",
+        "separation of powers, because each branch acts only within its own sphere",
+        "judicial review, because the constitutionality of the bill has been tested"
+      ],
+      "ans": 1,
+      "why": [
+        "No state governments are involved.",
+        "Two checks appear in sequence. The president checks Congress by vetoing; Congress checks the president by overriding with a two-thirds vote in both chambers.",
+        "Close, but separation of powers describes branches operating in their own lanes. Here each branch is acting on the other, which is what makes it a check.",
+        "No court is involved and no constitutional question has been decided."
+      ],
+      "note": ""
+    },
+    {
+      "id": 39,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Judicial review",
+      "stim": [],
+      "cite": "",
+      "stem": "The power of the federal courts to declare an act of Congress unconstitutional",
+      "opts": [
+        "is granted explicitly in Article III of the Constitution",
+        "was established by the Supreme Court in Marbury v. Madison (1803)",
+        "was created by a constitutional amendment ratified after the Civil War",
+        "belongs to the Senate rather than to the courts"
+      ],
+      "ans": 1,
+      "why": [
+        "A very common wrong answer. Article III creates the judicial branch and defines its jurisdiction, but it does not grant judicial review in so many words.",
+        "Judicial review is not written into the Constitution. The Supreme Court asserted the power in Marbury v. Madison, and it has functioned since as one of the judiciary’s central checks on the other branches.",
+        "No amendment established judicial review. The power predates the Civil War by more than half a century.",
+        "The Senate confirms judges and tries impeachments, but it does not rule on constitutionality."
+      ],
+      "note": "Preview: Marbury returns in the unit on the judicial branch. For now, know what power it established and that the Constitution does not state that power explicitly."
+    },
+    {
+      "id": 40,
+      "g": "1.6",
+      "topic": "1.6",
+      "concept": "Effects of separated powers",
+      "stim": [],
+      "cite": "",
+      "stem": "One party controls the presidency while the opposing party controls at least one chamber of Congress. Major legislation stalls repeatedly. Which statement best explains this outcome in constitutional terms?",
+      "opts": [
+        "The Constitution’s separation of powers makes cooperation across institutions necessary, so control split between parties can slow or block policymaking",
+        "The Constitution requires that legislation be approved by both major parties",
+        "The Constitution prohibits the president from signing bills passed by an opposing majority",
+        "Separation of powers was designed to guarantee that the majority party can enact its agenda quickly"
+      ],
+      "ans": 0,
+      "why": [
+        "The framers required separate institutions to act together before policy can be made. When different parties control those institutions, agreement becomes harder and legislation often stalls. This is a consequence of the structure, not a malfunction of it.",
+        "Parties appear nowhere in the Constitution. The requirement is institutional agreement, not partisan agreement.",
+        "No such prohibition exists. Presidents regularly sign bills passed by an opposing majority.",
+        "The reverse. The design deliberately makes rapid action difficult in order to guard against abuse of power."
+      ],
+      "note": "Preview: divided government and its effects come back repeatedly in the units on Congress and the presidency."
+    }
+  ]
+}

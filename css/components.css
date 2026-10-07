@@ -1,0 +1,23 @@
+/* Shared components: buttons, chips, backlinks */
+.btn{display:flex; flex-direction:column; justify-content:center; width:100%; line-height:1.35; text-align:left; background:var(--card); border:1px solid var(--rule); border-radius:var(--r);
+  min-height:var(--tap); padding:.875rem 1.125rem; box-shadow:var(--shadow); font-family:var(--ui); font-size:1rem; font-weight:600;
+  transition:border-color .12s, background .12s}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--ink); border-color:var(--ink); color:var(--card); width:fit-content; min-width:min(100%,22rem); box-shadow:none}
+.btn.primary:hover{opacity:.88}
+.btn .sub{display:block; line-height:1.35; font-size:.85rem; font-weight:400; color:var(--ink-soft); margin-top:.15rem}
+.btn.primary .sub{color:inherit; opacity:.85}
+.row{display:flex; gap:.75rem; flex-wrap:wrap; margin-top:1.5rem}
+.row .btn{width:auto; flex:1 1 12rem; max-width:20rem; text-align:center}
+.row .btn.primary{min-width:0}
+.chips{display:flex; gap:.5rem; flex-wrap:wrap; margin:1rem 0 1.5rem}
+.chip{background:var(--card); border:1px solid var(--rule); border-radius:999px; min-height:2.5rem; padding:.4rem 1rem;
+  font-family:var(--ui); font-size:.9rem; font-weight:500; color:var(--ink-soft)}
+.chip:hover{border-color:var(--accent)}
+.chip[aria-pressed="true"]{background:var(--ink); border-color:var(--ink); color:var(--card); font-weight:600}
+.backlink{display:inline-flex; align-items:center; min-height:2.5rem; background:none; border:0; padding:0; margin:0;
+  font-family:var(--ui); font-size:.9rem; font-weight:600; color:var(--accent)}
+.backlink:hover{text-decoration:underline}
+.backlink .icon{margin-right:.35rem}
+.icon{width:1.1em; height:1.1em; flex:0 0 auto; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; vertical-align:-.2em}
+.qresult .icon,.verdict .icon{margin-right:.3rem}

@@ -1,0 +1,38 @@
+{
+  "review": [
+    {
+      "num": "1.5",
+      "name": "Ratification of the U.S. Constitution",
+      "lo": "LO 1.5.A — Explain the impact of political negotiation and compromise at the Constitutional Convention on the development of the constitutional system.",
+      "core": "The Constitution was bargained into existence. Several of those bargains resolved a dispute for the moment without settling the underlying question, which is why some of them still generate argument.",
+      "blocks": [
+        [
+          "The competing plans",
+          "The Virginia Plan proposed a bicameral legislature with representation in both chambers based on population, favoring large states. The New Jersey Plan proposed a single chamber with equal representation for every state, favoring small states."
+        ],
+        [
+          "Five compromises to know",
+          "Great (Connecticut) Compromise — bicameral Congress, House by population, Senate equal by state · Electoral College — electors chosen by each state select the president, rather than Congress or a direct popular vote · Three-Fifths Compromise — a formula counting a state’s enslaved population for representation in the House and for taxation · Postponing until 1808 a decision on banning the importation of enslaved persons · Agreement to add a Bill of Rights to address Anti-Federalist concerns"
+        ],
+        [
+          "Article V — the amendment process",
+          "Proposal: a two-thirds vote in both houses of Congress, or a convention called by two-thirds of state legislatures. Ratification: three-fourths of the states. The president has no formal role."
+        ],
+        [
+          "What was left unresolved",
+          "The debate over the role of the national government, the powers of the states, and the rights of individuals remains at the center of constitutional argument — visible in disputes over government surveillance after the September 11 attacks and over the role of government in public school education."
+        ]
+      ],
+      "traps": [
+        [
+          "Treating a compromise as a solution",
+          "Several compromises worked by postponing or papering over a conflict. Saying what a compromise settled is only half the answer; say what it left open."
+        ],
+        [
+          "Mixing proposal with ratification",
+          "Two-thirds proposes. Three-fourths ratifies. These are separate stages, and questions are built around the confusion."
+        ]
+      ]
+    }
+  ]
+}

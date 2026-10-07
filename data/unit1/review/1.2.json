@@ -1,0 +1,38 @@
+{
+  "review": [
+    {
+      "num": "1.2",
+      "name": "Types of Democracy",
+      "lo": "LO 1.2.A — Explain how models of representative democracy are visible in major institutions, policies, events, or debates in the U.S.",
+      "core": "Representative democracy does not come in one form. The course uses three models, and the question is never which one America “is” — it is which model a particular institution, process, or argument reflects.",
+      "blocks": [
+        [
+          "Participatory",
+          "Emphasizes broad participation in politics and civil society. Individuals engaging directly — voting, town halls, protests, ballot initiatives, high turnout."
+        ],
+        [
+          "Pluralist",
+          "Emphasizes group-based activism by nongovernmental interests competing for influence on political decisions. Interest groups, lobbying, coalitions, organized testimony."
+        ],
+        [
+          "Elite",
+          "Emphasizes limited participation, with decisions made by a small number of people holding disproportionate influence through wealth, position, or expertise."
+        ],
+        [
+          "Where the debate shows up",
+          "Different parts of the Constitution, and the argument between Federalist No. 10 and Brutus No. 1, reflect the tension between broad participation and the more filtered participation of the pluralist and elite models. All three models remain visible in institutions and political behavior today."
+        ]
+      ],
+      "traps": [
+        [
+          "Participatory versus pluralist",
+          "The dividing line is individuals versus organized groups. A membership organization acting on behalf of thousands of people is still group activity, which makes it pluralist, not participatory."
+        ],
+        [
+          "Inventing a fourth model",
+          "Republicanism, direct democracy, and majoritarianism are real terms, but they are not among the three models. Stay inside participatory, pluralist, and elite."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "id": 41,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Supremacy Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "A state passes a law that directly conflicts with a valid federal statute. A state court hearing the case must apply the federal law rather than the state law. Which constitutional provision requires this result?",
+      "opts": [
+        "The Full Faith and Credit Clause",
+        "The Supremacy Clause",
+        "The Necessary and Proper Clause",
+        "The Commerce Clause"
+      ],
+      "ans": 1,
+      "why": [
+        "Full faith and credit governs how states treat one another’s laws and court judgments. It has nothing to do with conflicts between a state and the national government.",
+        "Article VI makes the Constitution, federal laws, and treaties the supreme law of the land and binds state judges to them. When a valid federal law and a state law conflict, the federal law controls.",
+        "The necessary and proper clause concerns how far Congress’s lawmaking power reaches. It does not say which law wins when two conflict.",
+        "The commerce clause grants Congress a power. Granting a power is a separate question from resolving a conflict once the power has been used."
+      ],
+      "note": "Preview: the supremacy clause returns as a central idea in the federalism unit."
+    },
+    {
+      "id": 42,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Necessary and Proper Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "The Constitution gives Congress the power to coin money, borrow money, and collect taxes. It says nothing about creating a bank. Relying on those listed powers, Congress charters a national bank. Which clause provides the constitutional basis for this action?",
+      "opts": [
+        "The Supremacy Clause",
+        "The Commerce Clause",
+        "The Necessary and Proper Clause",
+        "The Take Care Clause"
+      ],
+      "ans": 2,
+      "why": [
+        "Supremacy settles conflicts between federal and state law. It does not create congressional power.",
+        "The commerce power covers trade among the states. Chartering a bank flows from the money and taxing powers instead.",
+        "Article I, Section 8 allows Congress to make all laws necessary and proper for carrying its enumerated powers into execution. Powers that follow from this clause rather than being listed outright are called implied powers. The clause is also known as the elastic clause.",
+        "The take care clause is a duty placed on the president. It is not a source of authority for Congress."
+      ],
+      "note": "Preview: McCulloch v. Maryland is the case that settled this question, and you will study it in the federalism unit."
+    },
+    {
+      "id": 43,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Commerce Clause · interstate vs. intrastate",
+      "stim": [],
+      "cite": "",
+      "stem": "The commerce clause gives Congress power to regulate commerce “among the several States.” Based on that language, which activity falls most clearly within congressional authority?",
+      "opts": [
+        "The sale and shipment of goods from a business in one state to buyers in another",
+        "A barbershop serving only residents of the town where it operates",
+        "The curriculum of a local public school district",
+        "The licensing of drivers within a single state"
+      ],
+      "ans": 0,
+      "why": [
+        "“Among the several States” means interstate — commercial activity crossing state lines. Goods moving from a seller in one state to buyers in another is the clearest case.",
+        "This is intrastate commerce — economic activity occurring entirely within one state — which the text of the clause does not reach. Worth knowing: the Supreme Court has at times allowed Congress to regulate local activity that substantially affects interstate commerce, and you will look at how far that reaches in the federalism unit.",
+        "Education is not commerce, and it has traditionally been a state and local responsibility.",
+        "Driver licensing is neither commercial nor interstate."
+      ],
+      "note": "Preview: United States v. Lopez addresses the limits of the commerce power and comes later in the course."
+    },
+    {
+      "id": 44,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Take Care Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress passes a law over the president’s objection. The president then directs the relevant executive agency to carry the law out. Which constitutional provision establishes this duty?",
+      "opts": [
+        "The Necessary and Proper Clause",
+        "The Supremacy Clause",
+        "The Take Care Clause",
+        "The Full Faith and Credit Clause"
+      ],
+      "ans": 2,
+      "why": [
+        "This clause concerns the reach of Congress’s lawmaking power, not the president’s obligation to enforce.",
+        "Supremacy concerns federal law overriding conflicting state law.",
+        "Article II, Section 3 requires the president to take care that the laws be faithfully executed. The duty holds whether or not the president supported the law — that is much of the point of it.",
+        "Full faith and credit concerns how states treat one another’s laws and judgments."
+      ],
+      "note": "Preview: the take care clause becomes central in the unit on the presidency, especially in debates over executive power."
+    },
+    {
+      "id": 45,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Full Faith and Credit Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "A court in one state issues a judgment ordering a defendant to pay damages. The plaintiff then seeks to enforce that judgment against the defendant’s property in a different state. Which provision requires the second state to honor the first state’s judgment?",
+      "opts": [
+        "The Supremacy Clause",
+        "The Full Faith and Credit Clause",
+        "The Commerce Clause",
+        "The Necessary and Proper Clause"
+      ],
+      "ans": 1,
+      "why": [
+        "Supremacy governs federal law over conflicting state law. Both states here are at the same level.",
+        "Article IV, Section 1 requires each state to give full faith and credit to the public acts, records, and judicial proceedings of every other state. Without it, a court judgment would stop at the state line.",
+        "The commerce clause grants Congress a power. It says nothing about how states treat each other’s court judgments.",
+        "This clause concerns the scope of congressional lawmaking, not relations among states."
+      ],
+      "note": "Preview: the Article IV clauses governing relations among the states belong to the federalism unit."
+    },
+    {
+      "id": 46,
+      "g": "clauses",
+      "topic": "1.6",
+      "concept": "Extradition Clause",
+      "stim": [],
+      "cite": "",
+      "stem": "A person charged with a felony in one state flees to another state. The governor of the first state formally requests that the person be returned for trial. Which provision of Article IV addresses this situation?",
+      "opts": [
+        "The Full Faith and Credit Clause",
+        "The Extradition Clause",
+        "The Supremacy Clause",
+        "The Privileges and Immunities Clause"
+      ],
+      "ans": 1,
+      "why": [
+        "A close call worth thinking through. Full faith and credit covers public acts, records, and judicial proceedings — documents and judgments. Returning a person who has fled is handled by a separate clause in the next section.",
+        "Article IV, Section 2 provides that a person charged with a crime who flees to another state shall, on demand, be delivered up for return to the state with jurisdiction. That is extradition.",
+        "Supremacy concerns federal law overriding state law, and no federal law is at issue here.",
+        "Privileges and immunities bars a state from discriminating against citizens of other states. This scenario is about returning a fugitive, not about unequal treatment."
+      ],
+      "note": ""
+    }
+  ]
+}

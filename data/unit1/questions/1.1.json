@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Gettysburg Address · democratic ideals",
+      "stim": [
+        "“…conceived in Liberty, and dedicated to the proposition that all men are created equal.”",
+        "“…that government of the people, by the people, for the people, shall not perish from the earth.”"
+      ],
+      "cite": "Abraham Lincoln, Gettysburg Address (1863)",
+      "stem": "These two passages most directly reaffirm which pair of democratic ideals?",
+      "opts": [
+        "Equality and popular sovereignty",
+        "Natural rights and separation of powers",
+        "Limited government and federalism",
+        "Social contract and republicanism"
+      ],
+      "ans": 0,
+      "why": [
+        "The Gettysburg Address reaffirms equality and popular sovereignty as foundations of democracy. “All men are created equal” is equality. “Of the people, by the people, for the people” places governing power in the people themselves — that is popular sovereignty.",
+        "Separation of powers is a structural principle — how government is built. This passage is about where government’s authority comes from, not how it is organized.",
+        "Neither idea appears here. Limited government is about restraints on power; federalism is about dividing power between national and state governments.",
+        "Tempting, because “of the people” sounds like consent. But a social contract describes people trading some freedom for order, and Lincoln is not describing a trade. Republicanism means governing through elected representatives, which the passage never mentions."
+      ],
+      "note": ""
+    },
+    {
+      "id": 2,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Social contract",
+      "stim": [],
+      "cite": "",
+      "stem": "Residents of a town agree to obey speed limits, pay local taxes, and serve on juries. In return the town provides police protection, paved roads, and courts. Which democratic ideal does this arrangement best illustrate?",
+      "opts": [
+        "Natural rights",
+        "Social contract",
+        "Limited government",
+        "Popular sovereignty"
+      ],
+      "ans": 1,
+      "why": [
+        "Natural rights are rights that cannot be taken away. This scenario is about freedoms people agree to limit, which is the opposite move.",
+        "A social contract is an implicit agreement in which people give up some freedoms in order to maintain social order. Residents surrender some liberty — how fast they drive, some of their money, some of their time — and receive order and services in return.",
+        "Limited government means government power is not absolute. Nothing here describes a restraint on what the town may do.",
+        "A common wrong answer. Popular sovereignty is about the source of government’s authority — the consent of the people. The exchange described here is about what people give and get, not about where the town’s power originates."
+      ],
+      "note": ""
+    },
+    {
+      "id": 3,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Principles securing limited government",
+      "stim": [],
+      "cite": "",
+      "stem": "Congress passes a law. The Supreme Court later rules that the law exceeds Congress’s constitutional authority and strikes it down. Which principle of limited government is most directly at work?",
+      "opts": [
+        "Federalism",
+        "Republicanism",
+        "Checks and balances",
+        "Popular sovereignty"
+      ],
+      "ans": 2,
+      "why": [
+        "Federalism divides power between national and state governments. Both institutions in this scenario are national.",
+        "Republicanism means citizens govern through elected representatives. It does not describe one branch restraining another — and federal judges are not elected.",
+        "Checks and balances allows one branch to act directly on another. Here the judicial branch is restraining the legislative branch.",
+        "Popular sovereignty locates authority in the people. No election or expression of public will appears in the scenario."
+      ],
+      "note": "Separation of powers and checks and balances are easy to blur. Separation of powers creates the three branches and gives each its own job. Checks and balances lets one branch act on another. Creating the Court is separation of powers; the Court striking down a law is a check."
+    },
+    {
+      "id": 4,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Declaration of Independence",
+      "stim": [
+        "“That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government…”"
+      ],
+      "cite": "Declaration of Independence (1776)",
+      "stem": "This passage relies most directly on which idea?",
+      "opts": [
+        "Social contract — government exists by agreement and may be dissolved when it fails its purpose",
+        "Limited government — a written constitution restricts what officials may do",
+        "Republicanism — citizens govern through elected representatives",
+        "Federalism — power is divided between national and state governments"
+      ],
+      "ans": 0,
+      "why": [
+        "The logic of the passage is contractual. Government was created to serve certain ends; when it stops serving them, the people who created it may end it. That reasoning only works if government rests on an agreement in the first place.",
+        "Close, but not what the passage says. Limited government restrains power from within, through rules officials must follow. This passage describes people ending a government from outside it.",
+        "The passage says nothing about representation or elections.",
+        "The passage says nothing about states or levels of government."
+      ],
+      "note": ""
+    },
+    {
+      "id": 5,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Republicanism",
+      "stim": [],
+      "cite": "",
+      "stem": "A state’s voters do not vote on individual bills. Instead they elect legislators who debate and vote on bills for them. Which principle does this best illustrate?",
+      "opts": [
+        "Popular sovereignty",
+        "Republicanism",
+        "Participatory democracy",
+        "Separation of powers"
+      ],
+      "ans": 1,
+      "why": [
+        "Popular sovereignty is present in the background — the legislators’ authority does come from voters — but the question asks what the arrangement itself illustrates, and what makes it distinctive is that power is exercised through representatives rather than directly.",
+        "Republicanism means the people govern indirectly, through representatives they choose. That is exactly the arrangement described.",
+        "This describes the opposite. Participatory democracy emphasizes broad, direct citizen involvement, which this scenario explicitly rules out.",
+        "Separation of powers divides authority among branches. Only one branch appears here."
+      ],
+      "note": ""
+    },
+    {
+      "id": 6,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Declaration vs. Constitution",
+      "stim": [],
+      "cite": "",
+      "stem": "Which statement best describes the different roles of the Declaration of Independence and the U.S. Constitution?",
+      "opts": [
+        "The Declaration asserts natural rights and justifies separation from Britain; the Constitution establishes a structure of limited government",
+        "The Declaration establishes the three branches of government; the Constitution lists grievances against the king",
+        "The Declaration is legally binding federal law; the Constitution is a statement of political philosophy",
+        "The Declaration created the Articles of Confederation; the Constitution replaced them"
+      ],
+      "ans": 0,
+      "why": [
+        "The Declaration restates natural rights philosophy and grounds popular sovereignty, giving the reasons for independence. The Constitution is the blueprint — it builds the government and limits it.",
+        "This reverses the two documents. The grievances are in the Declaration; the branches are in the Constitution.",
+        "This also reverses them. The Constitution is binding law. The Declaration is foundational to American political thought but is not a source of enforceable legal rights.",
+        "The Declaration did not create the Articles. The Articles were drafted separately and were later replaced by the Constitution."
+      ],
+      "note": ""
+    },
+    {
+      "id": 7,
+      "g": "1.1",
+      "topic": "1.1",
+      "concept": "Gettysburg Address · significance",
+      "stim": [],
+      "cite": "",
+      "stem": "Lincoln delivered the Gettysburg Address during the Civil War. Which statement best explains its significance for understanding American democratic ideals?",
+      "opts": [
+        "It replaced the Declaration of Independence as the philosophical foundation of American government",
+        "It reaffirmed equality and popular sovereignty as defining foundations of democracy at a moment when the survival of the nation was in doubt",
+        "It argued that popular sovereignty should be suspended during wartime",
+        "It established that the states, rather than the people, are the source of national authority"
+      ],
+      "ans": 1,
+      "why": [
+        "The Address builds on the Declaration rather than displacing it. Lincoln opens by pointing back to 1776.",
+        "The Address does not introduce new ideals. Its importance is that it restates equality and popular sovereignty as what the nation is for, at the point of greatest danger to that nation.",
+        "The opposite. Lincoln argues that government by the people must survive, not that it should be set aside.",
+        "Also the opposite. “Of the people, by the people, for the people” locates authority in the people."
+      ],
+      "note": ""
+    }
+  ]
+}

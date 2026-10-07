@@ -1,0 +1,594 @@
+{
+  "drills": {
+    "Who Holds the Power?": [
+      {
+        "q": "Coin money",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 0,
+        "e": "An enumerated national power. States are expressly forbidden to coin money."
+      },
+      {
+        "q": "License doctors, lawyers, and teachers",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "A reserved power under the Tenth Amendment."
+      },
+      {
+        "q": "Collect taxes",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 2,
+        "e": "The textbook concurrent power."
+      },
+      {
+        "q": "Grant titles of nobility",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 3,
+        "e": "Forbidden to both levels by Article I."
+      },
+      {
+        "q": "Declare war",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 0,
+        "e": "Congress declares war. States can’t."
+      },
+      {
+        "q": "Set rules for marriage and divorce",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "Reserved to the states, within constitutional limits."
+      },
+      {
+        "q": "Borrow money",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 2,
+        "e": "Both levels borrow."
+      },
+      {
+        "q": "Make treaties with foreign nations",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 0,
+        "e": "The president makes treaties with the Senate’s consent. States are forbidden to."
+      },
+      {
+        "q": "Run elections, including for federal offices",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "States administer elections within rules set by the Constitution and Congress."
+      },
+      {
+        "q": "Pass ex post facto laws",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 3,
+        "e": "Forbidden to both Congress and the states."
+      },
+      {
+        "q": "Establish courts",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 2,
+        "e": "Congress creates lower federal courts; every state has its own courts."
+      },
+      {
+        "q": "Regulate commerce within a single state",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "Intrastate commerce is reserved to the states — though the Court lets Congress reach local activity with a substantial effect on interstate commerce."
+      },
+      {
+        "q": "Set rules for naturalizing new citizens",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 0,
+        "e": "Naturalization is an enumerated power of Congress."
+      },
+      {
+        "q": "Tax goods exported from a state",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 3,
+        "e": "Congress may not tax exports; states may not tax imports or exports without Congress’s consent."
+      },
+      {
+        "q": "Create local governments such as cities and counties",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "Local governments are creations of their states."
+      },
+      {
+        "q": "Make and enforce laws",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 2,
+        "e": "Each level makes and enforces laws within its own sphere."
+      },
+      {
+        "q": "Regulate interstate commerce",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 0,
+        "e": "The Commerce Clause gives this to Congress."
+      },
+      {
+        "q": "Pass bills of attainder",
+        "o": [
+          "National government",
+          "State governments",
+          "Both (concurrent)",
+          "Neither"
+        ],
+        "a": 3,
+        "e": "Forbidden to both Congress and the states."
+      }
+    ],
+    "Grants and Mandates": [
+      {
+        "q": "Federal money restricted to a specific, narrow purpose",
+        "o": [
+          "Categorical grant",
+          "Block grant",
+          "Revenue sharing",
+          "Mandate"
+        ],
+        "a": 0,
+        "e": "The most commonly used form of federal aid; preferred by the national government."
+      },
+      {
+        "q": "Federal money for a broad policy area with minimal restrictions",
+        "o": [
+          "Categorical grant",
+          "Block grant",
+          "Revenue sharing",
+          "Mandate"
+        ],
+        "a": 1,
+        "e": "Preferred by states because of its flexibility."
+      },
+      {
+        "q": "Federal money with almost no restrictions on its use",
+        "o": [
+          "Categorical grant",
+          "Block grant",
+          "Revenue sharing",
+          "Mandate"
+        ],
+        "a": 2,
+        "e": "The least used form; ran from 1972 to 1986."
+      },
+      {
+        "q": "A requirement the national government places on the states",
+        "o": [
+          "Categorical grant",
+          "Block grant",
+          "Revenue sharing",
+          "Mandate"
+        ],
+        "a": 3,
+        "e": "States must comply whether or not money comes with it."
+      },
+      {
+        "q": "Which form of federal funding is most commonly used?",
+        "o": [
+          "Categorical grants",
+          "Block grants",
+          "Revenue sharing",
+          "Mandates"
+        ],
+        "a": 0,
+        "e": "Categorical grants make up most federal aid to states."
+      },
+      {
+        "q": "Which form of federal funding do states prefer?",
+        "o": [
+          "Categorical grants",
+          "Block grants",
+          "Revenue sharing",
+          "Unfunded mandates"
+        ],
+        "a": 1,
+        "e": "Block grants — flexibility. (States liked revenue sharing too, but it is rarely used.)"
+      },
+      {
+        "q": "A federal requirement that comes with little or no money to pay for it",
+        "o": [
+          "Unfunded mandate",
+          "Block grant",
+          "Crossover sanction",
+          "Cross-cutting requirement"
+        ],
+        "a": 0,
+        "e": "The Americans with Disabilities Act is a common example."
+      },
+      {
+        "q": "Withholding highway money from states that won’t raise the drinking age to 21",
+        "o": [
+          "Unfunded mandate",
+          "Preemption",
+          "Crossover sanction",
+          "Cross-cutting requirement"
+        ],
+        "a": 2,
+        "e": "Money in one program used to change policy in another area."
+      },
+      {
+        "q": "A condition, such as nondiscrimination, that applies to nearly all federal grants",
+        "o": [
+          "Crossover sanction",
+          "Cross-cutting requirement",
+          "Block grant",
+          "Preemption"
+        ],
+        "a": 1,
+        "e": "It cuts across programs instead of applying to one."
+      },
+      {
+        "q": "Federal law displacing state law on the same subject",
+        "o": [
+          "Devolution",
+          "Preemption",
+          "Revenue sharing",
+          "Crossover sanction"
+        ],
+        "a": 1,
+        "e": "Grounded in the Supremacy Clause."
+      },
+      {
+        "q": "The Unfunded Mandates Reform Act of 1995",
+        "o": [
+          "Banned unfunded mandates",
+          "Made unfunded mandates harder to pass",
+          "Repaid states for past mandates",
+          "Converted grants into mandates"
+        ],
+        "a": 1,
+        "e": "Cost estimates and a floor challenge — not a ban."
+      },
+      {
+        "q": "A program guaranteeing benefits to everyone who meets its eligibility rules",
+        "o": [
+          "Entitlement",
+          "Block grant",
+          "Mandate",
+          "Revenue sharing"
+        ],
+        "a": 0,
+        "e": "Social Security, Medicare, and Medicaid are examples."
+      }
+    ],
+    "Clauses and Amendments": [
+      {
+        "q": "The basis of implied powers",
+        "o": [
+          "Necessary and Proper Clause",
+          "Supremacy Clause",
+          "Tenth Amendment",
+          "Full Faith and Credit Clause"
+        ],
+        "a": 0,
+        "e": "Also called the elastic clause. Article I."
+      },
+      {
+        "q": "Makes the Constitution and valid federal laws the supreme law of the land",
+        "o": [
+          "Necessary and Proper Clause",
+          "Supremacy Clause",
+          "Tenth Amendment",
+          "Commerce Clause"
+        ],
+        "a": 1,
+        "e": "Article VI. The basis of preemption."
+      },
+      {
+        "q": "Reserves powers not delegated to the national government to the states or the people",
+        "o": [
+          "Ninth Amendment",
+          "Tenth Amendment",
+          "Fourteenth Amendment",
+          "Seventeenth Amendment"
+        ],
+        "a": 1,
+        "e": "The constitutional home of reserved powers."
+      },
+      {
+        "q": "Gives Congress power over trade “among the several States”",
+        "o": [
+          "Commerce Clause",
+          "Necessary and Proper Clause",
+          "Supremacy Clause",
+          "Full Faith and Credit Clause"
+        ],
+        "a": 0,
+        "e": "Article I. At issue in Lopez."
+      },
+      {
+        "q": "Requires states to honor each other’s public acts, records, and court judgments",
+        "o": [
+          "Supremacy Clause",
+          "Full Faith and Credit Clause",
+          "Commerce Clause",
+          "Tenth Amendment"
+        ],
+        "a": 1,
+        "e": "Article IV. Governs relations among the states."
+      },
+      {
+        "q": "Says no state may deny any person due process or equal protection of the laws",
+        "o": [
+          "Tenth Amendment",
+          "Fourteenth Amendment",
+          "Sixteenth Amendment",
+          "Seventeenth Amendment"
+        ],
+        "a": 1,
+        "e": "Ratified 1868. Shifted power toward the national government."
+      },
+      {
+        "q": "Allowed Congress to tax incomes",
+        "o": [
+          "Fourteenth Amendment",
+          "Sixteenth Amendment",
+          "Seventeenth Amendment",
+          "Tenth Amendment"
+        ],
+        "a": 1,
+        "e": "1913. The money behind modern federal grants."
+      },
+      {
+        "q": "Moved the election of senators from state legislatures to voters",
+        "o": [
+          "Fourteenth Amendment",
+          "Sixteenth Amendment",
+          "Seventeenth Amendment",
+          "Twenty-Second Amendment"
+        ],
+        "a": 2,
+        "e": "1913. State legislatures lost their direct voice in Congress."
+      },
+      {
+        "q": "Which clause did McCulloch v. Maryland rely on to uphold the national bank?",
+        "o": [
+          "Necessary and Proper Clause",
+          "Commerce Clause",
+          "Tenth Amendment",
+          "Full Faith and Credit Clause"
+        ],
+        "a": 0,
+        "e": "Implied powers — the bank was a means of carrying out enumerated powers."
+      },
+      {
+        "q": "Which clause kept Maryland from taxing the national bank?",
+        "o": [
+          "Supremacy Clause",
+          "Commerce Clause",
+          "Tenth Amendment",
+          "Necessary and Proper Clause"
+        ],
+        "a": 0,
+        "e": "A state can’t burden a valid federal institution."
+      },
+      {
+        "q": "Which clause did United States v. Lopez turn on?",
+        "o": [
+          "Commerce Clause",
+          "Second Amendment",
+          "Supremacy Clause",
+          "Fourteenth Amendment"
+        ],
+        "a": 0,
+        "e": "Not the Second Amendment — Lopez is about the limits of the commerce power."
+      },
+      {
+        "q": "The process of applying the Bill of Rights to the states through the Fourteenth Amendment",
+        "o": [
+          "Judicial review",
+          "Selective incorporation",
+          "Preemption",
+          "Devolution"
+        ],
+        "a": 1,
+        "e": "Case by case, beginning in the 1920s. You’ll study it in depth later."
+      }
+    ],
+    "Federalism Over Time": [
+      {
+        "q": "Layer cake federalism",
+        "o": [
+          "Dual federalism",
+          "Cooperative federalism",
+          "Devolution",
+          "Revenue sharing"
+        ],
+        "a": 0,
+        "e": "Separate spheres for each level."
+      },
+      {
+        "q": "Marble cake federalism",
+        "o": [
+          "Dual federalism",
+          "Cooperative federalism",
+          "Devolution",
+          "Preemption"
+        ],
+        "a": 1,
+        "e": "Shared responsibilities and blended funding."
+      },
+      {
+        "q": "The event that most clearly shifted the nation from dual to cooperative federalism",
+        "o": [
+          "The Civil War",
+          "The New Deal",
+          "The Great Society",
+          "Welfare reform"
+        ],
+        "a": 1,
+        "e": "The national response to the Great Depression in the 1930s."
+      },
+      {
+        "q": "McCulloch v. Maryland (1819) moved power toward",
+        "o": [
+          "The national government",
+          "The states"
+        ],
+        "a": 0,
+        "e": "Implied powers and national supremacy."
+      },
+      {
+        "q": "United States v. Lopez (1995) moved power toward",
+        "o": [
+          "The national government",
+          "The states"
+        ],
+        "a": 1,
+        "e": "First limit on the commerce power in nearly sixty years."
+      },
+      {
+        "q": "The Fourteenth Amendment (1868) moved power toward",
+        "o": [
+          "The national government",
+          "The states"
+        ],
+        "a": 0,
+        "e": "New national limits on what states may do to individuals."
+      },
+      {
+        "q": "The Seventeenth Amendment (1913) moved power toward",
+        "o": [
+          "The national government",
+          "The states"
+        ],
+        "a": 0,
+        "e": "State legislatures no longer chose senators."
+      },
+      {
+        "q": "Devolution moves power toward",
+        "o": [
+          "The national government",
+          "The states"
+        ],
+        "a": 1,
+        "e": "Block grants, fewer unfunded mandates, a narrower commerce power."
+      },
+      {
+        "q": "The Welfare Reform Act of 1996 replaced an open-ended program with",
+        "o": [
+          "A block grant",
+          "A categorical grant",
+          "Revenue sharing",
+          "An unfunded mandate"
+        ],
+        "a": 0,
+        "e": "TANF — a block grant giving states more control. An example of devolution."
+      },
+      {
+        "q": "The Every Student Succeeds Act (2015), replacing No Child Left Behind, gave states",
+        "o": [
+          "More control over school accountability",
+          "Less control over school accountability"
+        ],
+        "a": 0,
+        "e": "Devolution in education policy."
+      },
+      {
+        "q": "Where the Bill of Rights originally applied",
+        "o": [
+          "Only to the national government",
+          "Only to the states",
+          "To both levels",
+          "Only to local governments"
+        ],
+        "a": 0,
+        "e": "Selective incorporation later applied most of it to the states."
+      },
+      {
+        "q": "Which era relied most heavily on revenue sharing?",
+        "o": [
+          "The 1970s and early 1980s",
+          "The New Deal",
+          "The Civil War era",
+          "The 2010s"
+        ],
+        "a": 0,
+        "e": "General revenue sharing ran from 1972 to 1986."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "frame": {
+    "overview": "The U.S. Constitution grew out of a set of inherited ideas about where governing power comes from and how far it should reach. Turning those ideas into a working government required compromises, and several of those compromises settled nothing permanently. The arguments they left open — about national power, state power, and individual rights — are still live today.",
+    "bigideas": [
+      [
+        "Constitutionalism",
+        "The Constitution sets up checks and balances among the branches and divides power between federal and state governments, resting on the rule of law and the balance between majority rule and minority rights."
+      ],
+      [
+        "Liberty and Order",
+        "Laws and policies balancing order against liberty are grounded in the Constitution and have been interpreted differently across time."
+      ],
+      [
+        "Civic Participation in a Representative Democracy",
+        "Popular sovereignty, individualism, and republicanism shape U.S. law and policymaking and assume that citizens will engage and participate."
+      ],
+      [
+        "Competing Policy-Making Interests",
+        "Multiple actors and institutions interact to produce and implement policy. The Constitution built a competitive process on purpose."
+      ]
+    ],
+    "questions": [
+      "How did the founders try to protect individual liberty while also promoting public order and safety?",
+      "How have theory, debate, and compromise shaped the U.S. constitutional system?"
+    ],
+    "documents": [
+      "Declaration of Independence",
+      "Articles of Confederation",
+      "Constitution of the United States",
+      "Gettysburg Address",
+      "Federalist No. 10",
+      "Federalist No. 51",
+      "Brutus No. 1"
+    ],
+    "docnote": "Your annotations to the Constitution are part of this list. Review them alongside these sections."
+  }
+}

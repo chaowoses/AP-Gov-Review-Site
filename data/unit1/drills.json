@@ -1,0 +1,428 @@
+{
+  "drills": {
+    "Fractions and Thresholds": [
+      {
+        "q": "To impeach a federal official, the House of Representatives must vote by what margin?",
+        "o": [
+          "Simple majority",
+          "Three-fifths",
+          "Two-thirds",
+          "Three-fourths"
+        ],
+        "a": 0,
+        "e": "A simple majority impeaches. Conviction in the Senate is the higher bar."
+      },
+      {
+        "q": "To convict and remove an impeached official, the Senate must vote by what margin?",
+        "o": [
+          "Simple majority",
+          "Three-fifths",
+          "Two-thirds",
+          "Unanimous"
+        ],
+        "a": 2,
+        "e": "Two-thirds of senators present. The House charges by majority; the Senate removes by two-thirds."
+      },
+      {
+        "q": "For Congress to propose a constitutional amendment, what vote is required?",
+        "o": [
+          "Majority of both houses",
+          "Two-thirds of both houses",
+          "Three-fourths of both houses",
+          "Two-thirds of the Senate only"
+        ],
+        "a": 1,
+        "e": "Two-thirds of both the House and the Senate."
+      },
+      {
+        "q": "How many states must ratify a proposed constitutional amendment?",
+        "o": [
+          "A majority",
+          "Two-thirds",
+          "Three-fourths",
+          "All of them"
+        ],
+        "a": 2,
+        "e": "Three-fourths. Two-thirds belongs to the proposal stage; three-fourths to ratification."
+      },
+      {
+        "q": "Under the alternative route in Article V, an amendment may be proposed by a convention called by",
+        "o": [
+          "a majority of state legislatures",
+          "two-thirds of state legislatures",
+          "three-fourths of state legislatures",
+          "the Supreme Court"
+        ],
+        "a": 1,
+        "e": "Two-thirds of state legislatures can call a convention. This route has never been used."
+      },
+      {
+        "q": "To override a presidential veto, Congress must vote by what margin?",
+        "o": [
+          "Simple majority of both houses",
+          "Three-fifths of both houses",
+          "Two-thirds of both houses",
+          "Three-fourths of both houses"
+        ],
+        "a": 2,
+        "e": "Two-thirds of both chambers."
+      },
+      {
+        "q": "To ratify a treaty, the Senate must vote by what margin?",
+        "o": [
+          "Simple majority",
+          "Three-fifths",
+          "Two-thirds",
+          "Three-fourths"
+        ],
+        "a": 2,
+        "e": "Two-thirds of senators present. The House has no role in treaty ratification."
+      },
+      {
+        "q": "To invoke cloture and end a filibuster on legislation, how many senators must vote yes?",
+        "o": [
+          "51",
+          "55",
+          "60",
+          "67"
+        ],
+        "a": 2,
+        "e": "60 — three-fifths of the full Senate."
+      },
+      {
+        "q": "To confirm a presidential nominee, the Senate votes by",
+        "o": [
+          "simple majority",
+          "three-fifths",
+          "two-thirds",
+          "three-fourths"
+        ],
+        "a": 0,
+        "e": "A simple majority confirms. Note the contrast with treaties, which take two-thirds."
+      },
+      {
+        "q": "To expel one of its own members, a chamber of Congress must vote by what margin?",
+        "o": [
+          "Simple majority",
+          "Three-fifths",
+          "Two-thirds",
+          "Three-fourths"
+        ],
+        "a": 2,
+        "e": "Two-thirds of that chamber."
+      },
+      {
+        "q": "How many electoral votes are needed to win the presidency?",
+        "o": [
+          "218",
+          "270",
+          "290",
+          "435"
+        ],
+        "a": 1,
+        "e": "270 — a majority of the 538 electoral votes."
+      },
+      {
+        "q": "The Three-Fifths Compromise counted three-fifths of a state’s enslaved population for purposes of",
+        "o": [
+          "representation in the House and direct taxation",
+          "voting eligibility",
+          "jury service",
+          "state militia quotas"
+        ],
+        "a": 0,
+        "e": "Representation and taxation. Section 2 of the Fourteenth Amendment later replaced this formula."
+      }
+    ],
+    "Checks and Balances": [
+      {
+        "q": "Which branch has the power to declare war?",
+        "o": [
+          "Congress",
+          "The president",
+          "The Supreme Court",
+          "The president with Senate approval"
+        ],
+        "a": 0,
+        "e": "Congress declares war. The president is Commander in Chief and directs the military."
+      },
+      {
+        "q": "The Senate checks the president’s appointment power by",
+        "o": [
+          "overriding appointments by two-thirds vote",
+          "confirming or rejecting nominees",
+          "impeaching nominees before they take office",
+          "issuing writs against the executive"
+        ],
+        "a": 1,
+        "e": "Advice and consent. The Senate confirms by simple majority."
+      },
+      {
+        "q": "The president checks Congress most directly through the power to",
+        "o": [
+          "veto legislation",
+          "repeal statutes",
+          "dissolve Congress",
+          "set the congressional calendar"
+        ],
+        "a": 0,
+        "e": "The veto. Congress can override it with two-thirds of both chambers."
+      },
+      {
+        "q": "The judicial branch checks the other two branches primarily through",
+        "o": [
+          "judicial review",
+          "the power of the purse",
+          "impeachment",
+          "treaty ratification"
+        ],
+        "a": 0,
+        "e": "Judicial review — declaring acts of Congress or the executive unconstitutional. Established in Marbury v. Madison (1803)."
+      },
+      {
+        "q": "Which power allows the president to check the judicial branch?",
+        "o": [
+          "Overturning Supreme Court decisions",
+          "Nominating federal judges",
+          "Removing judges from office",
+          "Setting the Court’s docket"
+        ],
+        "a": 1,
+        "e": "The president nominates federal judges, subject to Senate confirmation. Presidents cannot overturn decisions or remove judges."
+      },
+      {
+        "q": "Which chamber brings impeachment charges, and which conducts the trial?",
+        "o": [
+          "Senate charges; House tries",
+          "House charges; Senate tries",
+          "Both charge; the Supreme Court tries",
+          "House charges; the Supreme Court tries"
+        ],
+        "a": 1,
+        "e": "The House impeaches; the Senate tries."
+      },
+      {
+        "q": "Who presides over the Senate trial when a president is impeached?",
+        "o": [
+          "The vice president",
+          "The Senate majority leader",
+          "The Chief Justice of the United States",
+          "The Speaker of the House"
+        ],
+        "a": 2,
+        "e": "The Chief Justice presides when the president is tried. For other officials, the vice president or presiding officer does."
+      },
+      {
+        "q": "Congress can check the federal courts by",
+        "o": [
+          "altering the size of the Supreme Court and the jurisdiction of lower courts",
+          "reversing Supreme Court rulings by majority vote",
+          "appointing judges directly",
+          "vetoing judicial opinions"
+        ],
+        "a": 0,
+        "e": "Congress sets the number of justices, creates lower courts, and defines their jurisdiction. It cannot reverse rulings by ordinary vote."
+      },
+      {
+        "q": "The president’s pardon power is a check on which branch?",
+        "o": [
+          "The legislative branch",
+          "The judicial branch",
+          "The states",
+          "The bureaucracy"
+        ],
+        "a": 1,
+        "e": "A pardon sets aside the consequences of a criminal conviction, which checks the courts. It does not apply in cases of impeachment."
+      },
+      {
+        "q": "Congress’s most powerful ongoing check on the executive branch is its control over",
+        "o": [
+          "appropriations and funding",
+          "military promotions",
+          "cabinet meetings",
+          "executive orders"
+        ],
+        "a": 0,
+        "e": "The power of the purse. No federal money is spent without a congressional appropriation."
+      },
+      {
+        "q": "When the Supreme Court interprets the Constitution in a way Congress and the states disagree with, they may respond by",
+        "o": [
+          "passing an ordinary statute overruling the decision",
+          "proposing and ratifying a constitutional amendment",
+          "voting to remove the justices by majority",
+          "ignoring the decision"
+        ],
+        "a": 1,
+        "e": "Amending the Constitution is the formal route. An ordinary statute cannot override a constitutional ruling."
+      },
+      {
+        "q": "Which branch has the power to coin money and regulate its value?",
+        "o": [
+          "Congress",
+          "The president",
+          "The Treasury alone",
+          "The states"
+        ],
+        "a": 0,
+        "e": "Congress. Under the Articles of Confederation the states shared this power, which was a major weakness."
+      }
+    ],
+    "House vs. Senate": [
+      {
+        "q": "Where must all revenue bills originate?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Either chamber",
+          "A joint committee"
+        ],
+        "a": 0,
+        "e": "The House — the chamber apportioned by population. The Senate may amend revenue bills but not originate them."
+      },
+      {
+        "q": "Which chamber allows unlimited debate unless cloture is invoked?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Both",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "The Senate. That is what makes the filibuster possible; cloture takes 60 votes."
+      },
+      {
+        "q": "How long is a term in the House of Representatives?",
+        "o": [
+          "Two years",
+          "Four years",
+          "Six years",
+          "Eight years"
+        ],
+        "a": 0,
+        "e": "Two years. Every House seat is up in every even-numbered year."
+      },
+      {
+        "q": "How long is a term in the Senate?",
+        "o": [
+          "Two years",
+          "Four years",
+          "Six years",
+          "Eight years"
+        ],
+        "a": 2,
+        "e": "Six years, staggered so about one-third of the Senate is up each cycle."
+      },
+      {
+        "q": "How many members serve in the House of Representatives?",
+        "o": [
+          "100",
+          "270",
+          "435",
+          "538"
+        ],
+        "a": 2,
+        "e": "435. Note that 538 is the number of electoral votes, not House seats."
+      },
+      {
+        "q": "How many members serve in the Senate?",
+        "o": [
+          "50",
+          "100",
+          "435",
+          "538"
+        ],
+        "a": 1,
+        "e": "100 — two from each state."
+      },
+      {
+        "q": "Which chamber ratifies treaties?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Both chambers",
+          "Neither — the president acts alone"
+        ],
+        "a": 1,
+        "e": "The Senate, by a two-thirds vote."
+      },
+      {
+        "q": "Under the original Constitution, which chamber’s members were chosen by state legislatures rather than by voters?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Both",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "The Senate. The Seventeenth Amendment (1913) replaced legislative selection with direct election."
+      },
+      {
+        "q": "The presiding officers are",
+        "o": [
+          "Speaker of the House; vice president as president of the Senate",
+          "Majority leader in both chambers",
+          "Speaker in both chambers",
+          "President pro tempore in the House; Speaker in the Senate"
+        ],
+        "a": 0,
+        "e": "The Speaker leads the House. The vice president serves as president of the Senate and may break ties."
+      },
+      {
+        "q": "Seats in the House of Representatives are apportioned",
+        "o": [
+          "by state population",
+          "equally among the states",
+          "by land area",
+          "by number of electoral votes"
+        ],
+        "a": 0,
+        "e": "By population — the Virginia Plan’s approach, preserved in the Great Compromise."
+      },
+      {
+        "q": "Seats in the Senate are apportioned",
+        "o": [
+          "by state population",
+          "equally among the states",
+          "by region",
+          "by date of statehood"
+        ],
+        "a": 1,
+        "e": "Equally — two per state, regardless of size. The New Jersey Plan’s approach, preserved in the Great Compromise."
+      },
+      {
+        "q": "Minimum ages for service are",
+        "o": [
+          "25 for the House, 30 for the Senate",
+          "21 for the House, 25 for the Senate",
+          "30 for the House, 35 for the Senate",
+          "25 for both"
+        ],
+        "a": 0,
+        "e": "25 for the House, 30 for the Senate, 35 for the presidency."
+      },
+      {
+        "q": "If no candidate wins an Electoral College majority, which chamber chooses the president?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Both jointly",
+          "A new election is held"
+        ],
+        "a": 0,
+        "e": "The House selects the president; the Senate separately selects the vice president."
+      },
+      {
+        "q": "Which chamber confirms presidential appointments?",
+        "o": [
+          "The House",
+          "The Senate",
+          "Both",
+          "Neither"
+        ],
+        "a": 1,
+        "e": "The Senate, by simple majority."
+      }
+    ]
+  }
+}
