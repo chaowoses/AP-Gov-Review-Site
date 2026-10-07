@@ -8,7 +8,7 @@ A study site for AP U.S. Government with three tools for each unit:
 
 Nothing is saved. Progress lives only in the browser tab and resets on refresh.
 
-**Live site:** _paste the GitHub Pages URL here_
+**Live site:** <https://chaowoses.dev/AP-Gov-Review-Site/>
 
 ---
 
